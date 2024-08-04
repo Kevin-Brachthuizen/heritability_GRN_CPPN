@@ -1,0 +1,1759 @@
+fitness
+    ________________________________________________________
+    Gen 1
+    CPPN shapiro: ShapiroResult(statistic=0.9584511794300212, pvalue=0.7680775590693518)
+    GRN shapiro: ShapiroResult(statistic=0.9519954889559911, pvalue=0.6921418731926635)
+    NoVariance ttest: TtestResult(statistic=2.1698951192447056, pvalue=0.04364377901477903, df=18.0)
+    Variance ttest: TtestResult(statistic=2.1698951192447056, pvalue=0.045941013870574525, df=15.492885677089872)
+    Wilcoxon: WilcoxonResult(statistic=7.0, pvalue=0.037109375)
+    ________________________________________________________
+    Gen 2
+    CPPN shapiro: ShapiroResult(statistic=0.8428901841276986, pvalue=0.04778313037160052)
+    GRN shapiro: ShapiroResult(statistic=0.9043293878137815, pvalue=0.24426431153976197)
+    NoVariance ttest: TtestResult(statistic=1.7260481721557102, pvalue=0.10146286110255712, df=18.0)
+    Variance ttest: TtestResult(statistic=1.7260481721557102, pvalue=0.10148056187208644, df=17.98134453828592)
+    Wilcoxon: WilcoxonResult(statistic=14.0, pvalue=0.193359375)
+    ________________________________________________________
+    Gen 3
+    CPPN shapiro: ShapiroResult(statistic=0.8704909478035755, pvalue=0.10129122469015756)
+    GRN shapiro: ShapiroResult(statistic=0.9597838295554001, pvalue=0.7834046128789773)
+    NoVariance ttest: TtestResult(statistic=2.90553306709482, pvalue=0.009431982056578763, df=18.0)
+    Variance ttest: TtestResult(statistic=2.90553306709482, pvalue=0.01126678356788693, df=14.367430125748147)
+    Wilcoxon: WilcoxonResult(statistic=2.0, pvalue=0.005859375)
+    ________________________________________________________
+    Gen 4
+    CPPN shapiro: ShapiroResult(statistic=0.7969805609537373, pvalue=0.013323582625915925)
+    GRN shapiro: ShapiroResult(statistic=0.9205687571236092, pvalue=0.3617229969837902)
+    NoVariance ttest: TtestResult(statistic=5.665761179193963, pvalue=2.2505850216558102e-05, df=18.0)
+    Variance ttest: TtestResult(statistic=5.665761179193963, pvalue=3.931826715054544e-05, df=15.52786812227375)
+    Wilcoxon: WilcoxonResult(statistic=0.0, pvalue=0.001953125)
+    ________________________________________________________
+    Gen 5
+    CPPN shapiro: ShapiroResult(statistic=0.8346124124241263, pvalue=0.03802146420978719)
+    GRN shapiro: ShapiroResult(statistic=0.9601023284487926, pvalue=0.7870387245769541)
+    NoVariance ttest: TtestResult(statistic=3.735546034913839, pvalue=0.0015139173969172216, df=18.0)
+    Variance ttest: TtestResult(statistic=3.735546034913839, pvalue=0.0034492504841983377, df=10.701170995472035)
+    Wilcoxon: WilcoxonResult(statistic=3.0, pvalue=0.009765625)
+    ________________________________________________________
+    Gen 6
+    CPPN shapiro: ShapiroResult(statistic=0.8401546521705362, pvalue=0.04431295732587035)
+    GRN shapiro: ShapiroResult(statistic=0.954675734870454, pvalue=0.7238775679465802)
+    NoVariance ttest: TtestResult(statistic=7.202047490573743, pvalue=1.058191744126826e-06, df=18.0)
+    Variance ttest: TtestResult(statistic=7.202047490573743, pvalue=2.7734544065878855e-05, df=10.096576597190165)
+    Wilcoxon: WilcoxonResult(statistic=0.0, pvalue=0.001953125)
+    ________________________________________________________
+    Gen 7
+    CPPN shapiro: ShapiroResult(statistic=0.9710640082159713, pvalue=0.9005313123462577)
+    GRN shapiro: ShapiroResult(statistic=0.9487201363435117, pvalue=0.6533817493886873)
+    NoVariance ttest: TtestResult(statistic=5.379549114157428, pvalue=4.113670908033047e-05, df=18.0)
+    Variance ttest: TtestResult(statistic=5.379549114157429, pvalue=0.00039228912751539265, df=9.337839163235321)
+    Wilcoxon: WilcoxonResult(statistic=0.0, pvalue=0.001953125)
+    ________________________________________________________
+    Gen 8
+    CPPN shapiro: ShapiroResult(statistic=0.783402584411135, pvalue=0.009107446060370682)
+    GRN shapiro: ShapiroResult(statistic=0.9827796427802444, pvalue=0.9782942412802308)
+    NoVariance ttest: TtestResult(statistic=5.562103912166081, pvalue=2.7968702251122078e-05, df=18.0)
+    Variance ttest: TtestResult(statistic=5.562103912166082, pvalue=0.00016365624236555856, df=11.108886084540071)
+    Wilcoxon: WilcoxonResult(statistic=0.0, pvalue=0.001953125)
+    ________________________________________________________
+    Gen 9
+    CPPN shapiro: ShapiroResult(statistic=0.9290587937926115, pvalue=0.438698510225443)
+    GRN shapiro: ShapiroResult(statistic=0.8095707120162988, pvalue=0.01894639827583311)
+    NoVariance ttest: TtestResult(statistic=5.556031913622921, pvalue=2.8328143353010347e-05, df=18.0)
+    Variance ttest: TtestResult(statistic=5.556031913622922, pvalue=0.00012242535452255664, df=12.056991044184715)
+    Wilcoxon: WilcoxonResult(statistic=0.0, pvalue=0.001953125)
+    ________________________________________________________
+    Gen 10
+    CPPN shapiro: ShapiroResult(statistic=0.8584291101103723, pvalue=0.07311975347119469)
+    GRN shapiro: ShapiroResult(statistic=0.9519340321608195, pvalue=0.6914132589093203)
+    NoVariance ttest: TtestResult(statistic=6.401409243475079, pvalue=5.005821271888223e-06, df=18.0)
+    Variance ttest: TtestResult(statistic=6.401409243475079, pvalue=1.6328262275722557e-05, df=14.032179419356314)
+    Wilcoxon: WilcoxonResult(statistic=0.0, pvalue=0.001953125)
+    ________________________________________________________
+    Gen 11
+    CPPN shapiro: ShapiroResult(statistic=0.8646230673132937, pvalue=0.08648882791877818)
+    GRN shapiro: ShapiroResult(statistic=0.9524628921839157, pvalue=0.6976830938790288)
+    NoVariance ttest: TtestResult(statistic=6.076771427799051, pvalue=9.6339506812511e-06, df=18.0)
+    Variance ttest: TtestResult(statistic=6.076771427799051, pvalue=2.7590416263862296e-05, df=14.109701545825763)
+    Wilcoxon: WilcoxonResult(statistic=0.0, pvalue=0.001953125)
+    ________________________________________________________
+    Gen 12
+    CPPN shapiro: ShapiroResult(statistic=0.8929469575944033, pvalue=0.18299740257343433)
+    GRN shapiro: ShapiroResult(statistic=0.8911253356318026, pvalue=0.17459179637134659)
+    NoVariance ttest: TtestResult(statistic=6.42922135829398, pvalue=4.7358684818678125e-06, df=18.0)
+    Variance ttest: TtestResult(statistic=6.42922135829398, pvalue=1.730272960975169e-05, df=13.727256526901318)
+    Wilcoxon: WilcoxonResult(statistic=0.0, pvalue=0.001953125)
+    ________________________________________________________
+    Gen 13
+    CPPN shapiro: ShapiroResult(statistic=0.8843896525256435, pvalue=0.1464885936464448)
+    GRN shapiro: ShapiroResult(statistic=0.9305623397579205, pvalue=0.4534461869168793)
+    NoVariance ttest: TtestResult(statistic=3.424418974644431, pvalue=0.003023438180229126, df=18.0)
+    Variance ttest: TtestResult(statistic=3.424418974644431, pvalue=0.0039006844402550097, df=14.581547247575502)
+    Wilcoxon: WilcoxonResult(statistic=1.0, pvalue=0.00390625)
+    ________________________________________________________
+    Gen 14
+    CPPN shapiro: ShapiroResult(statistic=0.7030225439640434, pvalue=0.0009584385719811084)
+    GRN shapiro: ShapiroResult(statistic=0.88300045895951, pvalue=0.14123933204061484)
+    NoVariance ttest: TtestResult(statistic=6.444155063671015, pvalue=4.597172296807236e-06, df=18.0)
+    Variance ttest: TtestResult(statistic=6.444155063671017, pvalue=4.738532724630814e-06, df=17.887317597414356)
+    Wilcoxon: WilcoxonResult(statistic=1.0, pvalue=0.00390625)
+    ________________________________________________________
+    Gen 15
+    CPPN shapiro: ShapiroResult(statistic=0.8420878640415344, pvalue=0.046738719511769965)
+    GRN shapiro: ShapiroResult(statistic=0.9404642862211515, pvalue=0.5581911354786365)
+    NoVariance ttest: TtestResult(statistic=4.630835710668166, pvalue=0.00020768784678247538, df=18.0)
+    Variance ttest: TtestResult(statistic=4.630835710668166, pvalue=0.00021187146207831767, df=17.852964706671692)
+    Wilcoxon: WilcoxonResult(statistic=0.0, pvalue=0.001953125)
+    ________________________________________________________
+    Gen 16
+    CPPN shapiro: ShapiroResult(statistic=0.8011065964385021, pvalue=0.01495447150028733)
+    GRN shapiro: ShapiroResult(statistic=0.9833040671002486, pvalue=0.9803783968120293)
+    NoVariance ttest: TtestResult(statistic=5.639948533885238, pvalue=2.375440792173382e-05, df=18.0)
+    Variance ttest: TtestResult(statistic=5.639948533885238, pvalue=2.4743313794610627e-05, df=17.80385822968831)
+    Wilcoxon: WilcoxonResult(statistic=1.0, pvalue=0.00390625)
+    ________________________________________________________
+    Gen 17
+    CPPN shapiro: ShapiroResult(statistic=0.8808793180956529, pvalue=0.13356096980353888)
+    GRN shapiro: ShapiroResult(statistic=0.9826953339620546, pvalue=0.9779476172358731)
+    NoVariance ttest: TtestResult(statistic=4.82712813112768, pvalue=0.00013515774069905266, df=18.0)
+    Variance ttest: TtestResult(statistic=4.82712813112768, pvalue=0.00013704730335870605, df=17.906641749528973)
+    Wilcoxon: WilcoxonResult(statistic=0.0, pvalue=0.001953125)
+    ________________________________________________________
+    Gen 18
+    CPPN shapiro: ShapiroResult(statistic=0.863167952879554, pvalue=0.08315177464920047)
+    GRN shapiro: ShapiroResult(statistic=0.936121998788002, pvalue=0.5107217924575718)
+    NoVariance ttest: TtestResult(statistic=5.032450708389795, pvalue=8.654919917147397e-05, df=18.0)
+    Variance ttest: TtestResult(statistic=5.032450708389794, pvalue=8.707583706493779e-05, df=17.962723795794105)
+    Wilcoxon: WilcoxonResult(statistic=0.0, pvalue=0.001953125)
+    ________________________________________________________
+    Gen 19
+    CPPN shapiro: ShapiroResult(statistic=0.7956887422124468, pvalue=0.01285029038278142)
+    GRN shapiro: ShapiroResult(statistic=0.852478434701933, pvalue=0.06216643005504768)
+    NoVariance ttest: TtestResult(statistic=4.275146852689122, pvalue=0.0004555240902032761, df=18.0)
+    Variance ttest: TtestResult(statistic=4.275146852689122, pvalue=0.0005859468084372565, df=15.92124058534836)
+    Wilcoxon: WilcoxonResult(statistic=3.0, pvalue=0.009765625)
+    ________________________________________________________
+    Gen 20
+    CPPN shapiro: ShapiroResult(statistic=0.8720222151700651, pvalue=0.10553386245209762)
+    GRN shapiro: ShapiroResult(statistic=0.9464901551943072, pvalue=0.627199762794598)
+    NoVariance ttest: TtestResult(statistic=4.78722710381062, pvalue=0.0001474528305781024, df=18.0)
+    Variance ttest: TtestResult(statistic=4.78722710381062, pvalue=0.00021446899673855041, df=15.633183648734567)
+    Wilcoxon: WilcoxonResult(statistic=4.0, pvalue=0.013671875)
+    ________________________________________________________
+    Gen 21
+    CPPN shapiro: ShapiroResult(statistic=0.8400077747487487, pvalue=0.04413377413404502)
+    GRN shapiro: ShapiroResult(statistic=0.9168185152023536, pvalue=0.3311822785888229)
+    NoVariance ttest: TtestResult(statistic=3.608707990713806, pvalue=0.0020079221527199986, df=18.0)
+    Variance ttest: TtestResult(statistic=3.608707990713806, pvalue=0.0023197750994845535, df=16.177387642450945)
+    Wilcoxon: WilcoxonResult(statistic=2.0, pvalue=0.005859375)
+    ________________________________________________________
+    Gen 22
+    CPPN shapiro: ShapiroResult(statistic=0.8952010827248007, pvalue=0.1939058507755516)
+    GRN shapiro: ShapiroResult(statistic=0.9229319110843772, pvalue=0.3820584830406961)
+    NoVariance ttest: TtestResult(statistic=2.99638418681678, pvalue=0.00774607302053529, df=18.0)
+    Variance ttest: TtestResult(statistic=2.99638418681678, pvalue=0.008351259562525295, df=16.43322368492086)
+    Wilcoxon: WilcoxonResult(statistic=4.0, pvalue=0.013671875)
+    ________________________________________________________
+    Gen 23
+    CPPN shapiro: ShapiroResult(statistic=0.8843191514522772, pvalue=0.14621789245003863)
+    GRN shapiro: ShapiroResult(statistic=0.9552788106946417, pvalue=0.7309925824751073)
+    NoVariance ttest: TtestResult(statistic=2.9538876337203597, pvalue=0.008494758963448805, df=18.0)
+    Variance ttest: TtestResult(statistic=2.9538876337203597, pvalue=0.008520615512620325, df=17.92957990165623)
+    Wilcoxon: WilcoxonResult(statistic=3.0, pvalue=0.009765625)
+    ________________________________________________________
+    Gen 24
+    CPPN shapiro: ShapiroResult(statistic=0.9228638886090093, pvalue=0.38146131589106447)
+    GRN shapiro: ShapiroResult(statistic=0.8478419848201546, pvalue=0.05475147472948807)
+    NoVariance ttest: TtestResult(statistic=2.466747019524553, pvalue=0.023901177306052585, df=18.0)
+    Variance ttest: TtestResult(statistic=2.466747019524553, pvalue=0.024500929119418008, df=17.085887224742525)
+    Wilcoxon: WilcoxonResult(statistic=11.0, pvalue=0.10546875)
+    ________________________________________________________
+    Gen 25
+    CPPN shapiro: ShapiroResult(statistic=0.9353934327792987, pvalue=0.502980701050436)
+    GRN shapiro: ShapiroResult(statistic=0.9702931669225395, pvalue=0.8935500705757053)
+    NoVariance ttest: TtestResult(statistic=2.2524664064367825, pvalue=0.03701133725869989, df=18.0)
+    Variance ttest: TtestResult(statistic=2.2524664064367825, pvalue=0.03734373825843043, df=17.562761341529793)
+    Wilcoxon: WilcoxonResult(statistic=8.0, pvalue=0.048828125)
+    ________________________________________________________
+    Gen 26
+    CPPN shapiro: ShapiroResult(statistic=0.8836888448746016, pvalue=0.14381826047732638)
+    GRN shapiro: ShapiroResult(statistic=0.8101271807449199, pvalue=0.01924312180643048)
+    NoVariance ttest: TtestResult(statistic=1.5054873715500896, pvalue=0.14954554005828638, df=18.0)
+    Variance ttest: TtestResult(statistic=1.5054873715500896, pvalue=0.14956387492665146, df=17.980763114122762)
+    Wilcoxon: WilcoxonResult(statistic=14.0, pvalue=0.193359375)
+    ________________________________________________________
+    Gen 27
+    CPPN shapiro: ShapiroResult(statistic=0.9545729281347849, pvalue=0.7226632906028685)
+    GRN shapiro: ShapiroResult(statistic=0.8390778850264109, pvalue=0.0430156933227569)
+    NoVariance ttest: TtestResult(statistic=0.44883939366088726, pvalue=0.6589042603675042, df=18.0)
+    Variance ttest: TtestResult(statistic=0.44883939366088726, pvalue=0.6592455532909658, df=16.91193909497638)
+    Wilcoxon: WilcoxonResult(statistic=24.0, pvalue=0.76953125)
+    ________________________________________________________
+    Gen 28
+    CPPN shapiro: ShapiroResult(statistic=0.9421533126984486, pvalue=0.5772134442824279)
+    GRN shapiro: ShapiroResult(statistic=0.9833191006784818, pvalue=0.9804363197584016)
+    NoVariance ttest: TtestResult(statistic=0.9848669274256205, pvalue=0.3377435904200674, df=18.0)
+    Variance ttest: TtestResult(statistic=0.9848669274256205, pvalue=0.33774676738520826, df=17.995557329558636)
+    Wilcoxon: WilcoxonResult(statistic=21.0, pvalue=0.556640625)
+    ________________________________________________________
+    Gen 29
+    CPPN shapiro: ShapiroResult(statistic=0.9657201943405544, pvalue=0.8485793119523171)
+    GRN shapiro: ShapiroResult(statistic=0.8777868558753883, pvalue=0.12306293463080253)
+    NoVariance ttest: TtestResult(statistic=0.2697063619451736, pvalue=0.7904538121486608, df=18.0)
+    Variance ttest: TtestResult(statistic=0.2697063619451736, pvalue=0.7905496000832816, df=17.450404335577215)
+    Wilcoxon: WilcoxonResult(statistic=26.0, pvalue=0.921875)
+    ________________________________________________________
+    Gen 30
+    CPPN shapiro: ShapiroResult(statistic=0.9124652392690895, pvalue=0.29835755181563894)
+    GRN shapiro: ShapiroResult(statistic=0.887588910025887, pvalue=0.15927204214684326)
+    NoVariance ttest: TtestResult(statistic=-0.02873294898190536, pvalue=0.977393755843072, df=18.0)
+    Variance ttest: TtestResult(statistic=-0.02873294898190536, pvalue=0.9774114972698844, df=17.035959475560794)
+    Wilcoxon: WilcoxonResult(statistic=26.0, pvalue=0.921875)
+    ________________________________________________________
+    Gen 31
+    CPPN shapiro: ShapiroResult(statistic=0.8225804891533677, pvalue=0.02722898847322139)
+    GRN shapiro: ShapiroResult(statistic=0.9568901821996404, pvalue=0.7499155211587809)
+    NoVariance ttest: TtestResult(statistic=1.3013678986252624, pvalue=0.20954391095877006, df=18.0)
+    Variance ttest: TtestResult(statistic=1.3013678986252624, pvalue=0.2097061990677661, df=17.821050068742654)
+    Wilcoxon: WilcoxonResult(statistic=15.0, pvalue=0.232421875)
+    ________________________________________________________
+    Gen 32
+    CPPN shapiro: ShapiroResult(statistic=0.9691016018759716, pvalue=0.8823927031900158)
+    GRN shapiro: ShapiroResult(statistic=0.9167960489783761, pvalue=0.3310056821877566)
+    NoVariance ttest: TtestResult(statistic=-0.7007450955950268, pvalue=0.4924219253678037, df=18.0)
+    Variance ttest: TtestResult(statistic=-0.700745095595027, pvalue=0.49295278637114315, df=16.981700189833923)
+    Wilcoxon: WilcoxonResult(statistic=17.0, pvalue=0.322265625)
+    ________________________________________________________
+    Gen 33
+    CPPN shapiro: ShapiroResult(statistic=0.9655721701629728, pvalue=0.8470344814121922)
+    GRN shapiro: ShapiroResult(statistic=0.9292072025439926, pvalue=0.4401396082718609)
+    NoVariance ttest: TtestResult(statistic=0.1353899194183889, pvalue=0.8938061577640835, df=18.0)
+    Variance ttest: TtestResult(statistic=0.1353899194183889, pvalue=0.8938121203777136, df=17.928278024210922)
+    Wilcoxon: WilcoxonResult(statistic=27.0, pvalue=1.0)
+    ________________________________________________________
+    Gen 34
+    CPPN shapiro: ShapiroResult(statistic=0.8291636951084447, pvalue=0.03269351688914841)
+    GRN shapiro: ShapiroResult(statistic=0.9657021431358793, pvalue=0.8483911875863317)
+    NoVariance ttest: TtestResult(statistic=-1.2766524885786363, pvalue=0.2179502732784217, df=18.0)
+    Variance ttest: TtestResult(statistic=-1.2766524885786363, pvalue=0.22079899206284823, df=15.270069909673703)
+    Wilcoxon: WilcoxonResult(statistic=8.0, pvalue=0.048828125)
+    ________________________________________________________
+    Gen 35
+    CPPN shapiro: ShapiroResult(statistic=0.9308212560103382, pvalue=0.4560186505267277)
+    GRN shapiro: ShapiroResult(statistic=0.8901803106467219, pvalue=0.17037111948805084)
+    NoVariance ttest: TtestResult(statistic=-0.419023944531696, pvalue=0.6801564657444839, df=18.0)
+    Variance ttest: TtestResult(statistic=-0.41902394453169606, pvalue=0.6805083357140924, df=16.796385958734014)
+    Wilcoxon: WilcoxonResult(statistic=26.0, pvalue=0.921875)
+    ________________________________________________________
+    Gen 36
+    CPPN shapiro: ShapiroResult(statistic=0.8211588431447375, pvalue=0.026172902737153385)
+    GRN shapiro: ShapiroResult(statistic=0.9264791361439643, pvalue=0.4141670699971074)
+    NoVariance ttest: TtestResult(statistic=1.8456038119868892, pvalue=0.08146482061919874, df=18.0)
+    Variance ttest: TtestResult(statistic=1.8456038119868892, pvalue=0.08336602764385495, df=16.148186570755747)
+    Wilcoxon: WilcoxonResult(statistic=11.0, pvalue=0.10546875)
+    ________________________________________________________
+    Gen 37
+    CPPN shapiro: ShapiroResult(statistic=0.6831612794600708, pvalue=0.0005509972963435956)
+    GRN shapiro: ShapiroResult(statistic=0.971418995937105, pvalue=0.9036808597746894)
+    NoVariance ttest: TtestResult(statistic=1.2014304213902394, pvalue=0.24515443676562892, df=18.0)
+    Variance ttest: TtestResult(statistic=1.2014304213902396, pvalue=0.24715649560105807, df=15.917181387005407)
+    Wilcoxon: WilcoxonResult(statistic=13.0, pvalue=0.16015625)
+    ________________________________________________________
+    Gen 38
+    CPPN shapiro: ShapiroResult(statistic=0.8512723828783102, pvalue=0.060148808577915214)
+    GRN shapiro: ShapiroResult(statistic=0.8940095262865098, pvalue=0.1880684304685732)
+    NoVariance ttest: TtestResult(statistic=2.3039854081959317, pvalue=0.03335791178422453, df=18.0)
+    Variance ttest: TtestResult(statistic=2.3039854081959317, pvalue=0.03610228939437797, df=14.852140136953274)
+    Wilcoxon: WilcoxonResult(statistic=10.0, pvalue=0.083984375)
+    ________________________________________________________
+    Gen 39
+    CPPN shapiro: ShapiroResult(statistic=0.9115834398574144, pvalue=0.29204567405643517)
+    GRN shapiro: ShapiroResult(statistic=0.8838796900265922, pvalue=0.1445409380519858)
+    NoVariance ttest: TtestResult(statistic=3.2246024672342286, pvalue=0.004701090319088171, df=18.0)
+    Variance ttest: TtestResult(statistic=3.2246024672342286, pvalue=0.007049979337433271, df=12.350618302310606)
+    Wilcoxon: WilcoxonResult(statistic=2.0, pvalue=0.005859375)
+    ________________________________________________________
+    Gen 40
+    CPPN shapiro: ShapiroResult(statistic=0.9382536855223556, pvalue=0.5337504690815955)
+    GRN shapiro: ShapiroResult(statistic=0.8504020235761491, pvalue=0.058732394205208614)
+    NoVariance ttest: TtestResult(statistic=1.8506475477734372, pvalue=0.0807030537287713, df=18.0)
+    Variance ttest: TtestResult(statistic=1.8506475477734372, pvalue=0.0877441106109846, df=12.629151592682426)
+    Wilcoxon: WilcoxonResult(statistic=13.0, pvalue=0.16015625)
+    ________________________________________________________
+    Gen 41
+    CPPN shapiro: ShapiroResult(statistic=0.9675283512614757, pvalue=0.8670305736206656)
+    GRN shapiro: ShapiroResult(statistic=0.8869480953800288, pvalue=0.15663187110744364)
+    NoVariance ttest: TtestResult(statistic=1.5315926887828728, pvalue=0.14300940888422436, df=18.0)
+    Variance ttest: TtestResult(statistic=1.5315926887828728, pvalue=0.14658081686019206, df=14.896967133775215)
+    Wilcoxon: WilcoxonResult(statistic=14.0, pvalue=0.193359375)
+    ________________________________________________________
+    Gen 42
+    CPPN shapiro: ShapiroResult(statistic=0.8618401932915631, pvalue=0.08021483780367275)
+    GRN shapiro: ShapiroResult(statistic=0.9807837917061584, pvalue=0.9692239708261033)
+    NoVariance ttest: TtestResult(statistic=1.726628514465183, pvalue=0.10135632808381971, df=18.0)
+    Variance ttest: TtestResult(statistic=1.7266285144651827, pvalue=0.10155225808021605, df=17.79560483751109)
+    Wilcoxon: WilcoxonResult(statistic=14.0, pvalue=0.193359375)
+    ________________________________________________________
+    Gen 43
+    CPPN shapiro: ShapiroResult(statistic=0.9600276069627662, pvalue=0.7861872297929069)
+    GRN shapiro: ShapiroResult(statistic=0.9553723678925249, pvalue=0.7320949979495729)
+    NoVariance ttest: TtestResult(statistic=2.1163695138223764, pvalue=0.048507281719683736, df=18.0)
+    Variance ttest: TtestResult(statistic=2.1163695138223764, pvalue=0.04868908909943358, df=17.778936825563534)
+    Wilcoxon: WilcoxonResult(statistic=11.0, pvalue=0.10546875)
+    ________________________________________________________
+    Gen 44
+    CPPN shapiro: ShapiroResult(statistic=0.8769883248323571, pvalue=0.12048076566030397)
+    GRN shapiro: ShapiroResult(statistic=0.9765497357526814, pvalue=0.9440702619929606)
+    NoVariance ttest: TtestResult(statistic=2.510625982693213, pvalue=0.021820387629382255, df=18.0)
+    Variance ttest: TtestResult(statistic=2.510625982693213, pvalue=0.022234801074969293, df=17.331971578866387)
+    Wilcoxon: WilcoxonResult(statistic=6.0, pvalue=0.02734375)
+    ________________________________________________________
+    Gen 45
+    CPPN shapiro: ShapiroResult(statistic=0.8992673365070476, pvalue=0.2150711662190848)
+    GRN shapiro: ShapiroResult(statistic=0.964348971402373, pvalue=0.8340872917604872)
+    NoVariance ttest: TtestResult(statistic=2.2804210504077975, pvalue=0.0349854225750469, df=18.0)
+    Variance ttest: TtestResult(statistic=2.2804210504077975, pvalue=0.035027120066564346, df=17.942731135663596)
+    Wilcoxon: WilcoxonResult(statistic=10.0, pvalue=0.083984375)
+    ________________________________________________________
+    Gen 46
+    CPPN shapiro: ShapiroResult(statistic=0.8885447430684056, pvalue=0.1632862587161199)
+    GRN shapiro: ShapiroResult(statistic=0.9270985640426344, pvalue=0.4199676357147598)
+    NoVariance ttest: TtestResult(statistic=2.526798636075203, pvalue=0.021097468985603645, df=18.0)
+    Variance ttest: TtestResult(statistic=2.526798636075203, pvalue=0.021285877267465322, df=17.684786252652742)
+    Wilcoxon: WilcoxonResult(statistic=10.0, pvalue=0.083984375)
+    ________________________________________________________
+    Gen 47
+    CPPN shapiro: ShapiroResult(statistic=0.9579030263810894, pvalue=0.7617226587431183)
+    GRN shapiro: ShapiroResult(statistic=0.9679327106860365, pvalue=0.8710438836644958)
+    NoVariance ttest: TtestResult(statistic=2.2244954341137797, pvalue=0.03914634110636583, df=18.0)
+    Variance ttest: TtestResult(statistic=2.2244954341137797, pvalue=0.039493405392202655, df=17.55284308068743)
+    Wilcoxon: WilcoxonResult(statistic=10.0, pvalue=0.083984375)
+    ________________________________________________________
+    Gen 48
+    CPPN shapiro: ShapiroResult(statistic=0.9641378040146474, pvalue=0.8318209235412001)
+    GRN shapiro: ShapiroResult(statistic=0.9648694156870751, pvalue=0.8396346029673183)
+    NoVariance ttest: TtestResult(statistic=1.1350954942142664, pvalue=0.2712248555861632, df=18.0)
+    Variance ttest: TtestResult(statistic=1.1350954942142664, pvalue=0.2712590549573129, df=17.95811456939194)
+    Wilcoxon: WilcoxonResult(statistic=20.0, pvalue=0.4921875)
+    ________________________________________________________
+    Gen 49
+    CPPN shapiro: ShapiroResult(statistic=0.913914799673047, pvalue=0.3089783324371218)
+    GRN shapiro: ShapiroResult(statistic=0.9498635187637283, pvalue=0.6668860378837477)
+    NoVariance ttest: TtestResult(statistic=2.076477556143237, pvalue=0.05244757082006908, df=18.0)
+    Variance ttest: TtestResult(statistic=2.0764775561432365, pvalue=0.05403312789202725, df=16.27865834987236)
+    Wilcoxon: WilcoxonResult(statistic=12.0, pvalue=0.130859375)
+    ________________________________________________________
+    Gen 50
+    CPPN shapiro: ShapiroResult(statistic=0.9584476247848185, pvalue=0.7680364366626011)
+    GRN shapiro: ShapiroResult(statistic=0.9500227120088982, pvalue=0.6687692572916569)
+    NoVariance ttest: TtestResult(statistic=1.5402114812157075, pvalue=0.1409043557110278, df=18.0)
+    Variance ttest: TtestResult(statistic=1.5402114812157075, pvalue=0.1410338475072986, df=17.865502628137936)
+    Wilcoxon: WilcoxonResult(statistic=17.0, pvalue=0.322265625)
+
+balance
+    ________________________________________________________
+    Gen 1
+    CPPN shapiro: ShapiroResult(statistic=0.6383325876438264, pvalue=0.00015893729947172948)
+    GRN shapiro: ShapiroResult(statistic=0.8559583582136125, pvalue=0.06836247216443189)
+    NoVariance ttest: TtestResult(statistic=1.7191668209167148, pvalue=0.10273345403019699, df=18.0)
+    Variance ttest: TtestResult(statistic=1.7191668209167148, pvalue=0.10662733651295488, df=14.654737824283487)
+    Wilcoxon: WilcoxonResult(statistic=15.0, pvalue=0.232421875)
+    ________________________________________________________
+    Gen 2
+    CPPN shapiro: ShapiroResult(statistic=0.6037780470228515, pvalue=6.134968671224531e-05)
+    GRN shapiro: ShapiroResult(statistic=0.7506321467290316, pvalue=0.003632507349418125)
+    NoVariance ttest: TtestResult(statistic=0.39358261775568615, pvalue=0.6985123326756814, df=18.0)
+    Variance ttest: TtestResult(statistic=0.3935826177556862, pvalue=0.6988299009179944, df=16.832747183518862)
+    Wilcoxon: WilcoxonResult(statistic=16.0, pvalue=0.275390625)
+    ________________________________________________________
+    Gen 3
+    CPPN shapiro: ShapiroResult(statistic=0.8330898982681776, pvalue=0.036452320450953014)
+    GRN shapiro: ShapiroResult(statistic=0.8971501776348468, pvalue=0.20380660936869066)
+    NoVariance ttest: TtestResult(statistic=1.1428887632928515, pvalue=0.26805891811372723, df=18.0)
+    Variance ttest: TtestResult(statistic=1.1428887632928515, pvalue=0.26961603364337927, df=16.278275266495953)
+    Wilcoxon: WilcoxonResult(statistic=18.0, pvalue=0.375)
+    ________________________________________________________
+    Gen 4
+    CPPN shapiro: ShapiroResult(statistic=0.7500071870461615, pvalue=0.0035694037090768307)
+    GRN shapiro: ShapiroResult(statistic=0.7559123561662728, pvalue=0.004212289114103945)
+    NoVariance ttest: TtestResult(statistic=1.131415829756109, pvalue=0.27272930749073027, df=18.0)
+    Variance ttest: TtestResult(statistic=1.1314158297561088, pvalue=0.27414091113940653, df=16.413280977997676)
+    Wilcoxon: WilcoxonResult(statistic=13.0, pvalue=0.16015625)
+    ________________________________________________________
+    Gen 5
+    CPPN shapiro: ShapiroResult(statistic=0.8697978256016632, pvalue=0.09942455195990181)
+    GRN shapiro: ShapiroResult(statistic=0.8118272004855338, pvalue=0.020178439673200998)
+    NoVariance ttest: TtestResult(statistic=1.0007033312350795, pvalue=0.3302339160071348, df=18.0)
+    Variance ttest: TtestResult(statistic=1.0007033312350795, pvalue=0.3354480826146634, df=12.846080495926337)
+    Wilcoxon: WilcoxonResult(statistic=22.0, pvalue=0.625)
+    ________________________________________________________
+    Gen 6
+    CPPN shapiro: ShapiroResult(statistic=0.7423598613761324, pvalue=0.002880632302983708)
+    GRN shapiro: ShapiroResult(statistic=0.8746246021270507, pvalue=0.11313309740715499)
+    NoVariance ttest: TtestResult(statistic=2.7771416271157157, pvalue=0.012430352308182518, df=18.0)
+    Variance ttest: TtestResult(statistic=2.7771416271157157, pvalue=0.017853685061273456, df=11.103335621997143)
+    Wilcoxon: WilcoxonResult(statistic=0.0, pvalue=0.001953125)
+    ________________________________________________________
+    Gen 7
+    CPPN shapiro: ShapiroResult(statistic=0.6157886984187454, pvalue=8.535519752239842e-05)
+    GRN shapiro: ShapiroResult(statistic=0.882823856906743, pvalue=0.14058468609764596)
+    NoVariance ttest: TtestResult(statistic=2.029143485595055, pvalue=0.05749787265897071, df=18.0)
+    Variance ttest: TtestResult(statistic=2.029143485595055, pvalue=0.05944572936474171, df=15.976850083604397)
+    Wilcoxon: WilcoxonResult(statistic=7.0, pvalue=0.037109375)
+    ________________________________________________________
+    Gen 8
+    CPPN shapiro: ShapiroResult(statistic=0.7689752228620631, pvalue=0.006076587846706864)
+    GRN shapiro: ShapiroResult(statistic=0.8853304635464359, pvalue=0.15014573684998106)
+    NoVariance ttest: TtestResult(statistic=2.64216505073532, pvalue=0.016560726799122315, df=18.0)
+    Variance ttest: TtestResult(statistic=2.64216505073532, pvalue=0.0239817946680398, df=10.355250041337522)
+    Wilcoxon: WilcoxonResult(statistic=8.0, pvalue=0.048828125)
+    ________________________________________________________
+    Gen 9
+    CPPN shapiro: ShapiroResult(statistic=0.6203173422895192, pvalue=9.669035811177412e-05)
+    GRN shapiro: ShapiroResult(statistic=0.9380791446756479, pvalue=0.531844319806476)
+    NoVariance ttest: TtestResult(statistic=2.4977152141962833, pvalue=0.0224142034900722, df=18.0)
+    Variance ttest: TtestResult(statistic=2.4977152141962833, pvalue=0.02516117490076984, df=14.416061001368227)
+    Wilcoxon: WilcoxonResult(statistic=8.0, pvalue=0.048828125)
+    ________________________________________________________
+    Gen 10
+    CPPN shapiro: ShapiroResult(statistic=0.4127814085623699, pvalue=3.5056361576303996e-07)
+    GRN shapiro: ShapiroResult(statistic=0.875947012952844, pvalue=0.11719006767089374)
+    NoVariance ttest: TtestResult(statistic=-0.2696012245461156, pvalue=0.7905334345792178, df=18.0)
+    Variance ttest: TtestResult(statistic=-0.2696012245461157, pvalue=0.7931932779394294, df=9.565458499317558)
+    Wilcoxon: WilcoxonResult(statistic=10.0, pvalue=0.083984375)
+    ________________________________________________________
+    Gen 11
+    CPPN shapiro: ShapiroResult(statistic=0.5108856054279286, pvalue=4.880321419124875e-06)
+    GRN shapiro: ShapiroResult(statistic=0.9147151155872039, pvalue=0.3149737817957711)
+    NoVariance ttest: TtestResult(statistic=-0.4714560034082655, pvalue=0.6429791473640526, df=18.0)
+    Variance ttest: TtestResult(statistic=-0.47145600340826554, pvalue=0.6475751559725798, df=9.858603654590187)
+    Wilcoxon: WilcoxonResult(statistic=19.0, pvalue=0.431640625)
+    ________________________________________________________
+    Gen 12
+    CPPN shapiro: ShapiroResult(statistic=0.5819117182004869, pvalue=3.368772499906656e-05)
+    GRN shapiro: ShapiroResult(statistic=0.9334657920639204, pvalue=0.4828338355571388)
+    NoVariance ttest: TtestResult(statistic=0.5689188941644316, pvalue=0.5764417720913386, df=18.0)
+    Variance ttest: TtestResult(statistic=0.5689188941644316, pvalue=0.5782686013242037, df=14.249673614085943)
+    Wilcoxon: WilcoxonResult(statistic=15.0, pvalue=0.232421875)
+    ________________________________________________________
+    Gen 13
+    CPPN shapiro: ShapiroResult(statistic=0.7106244945799928, pvalue=0.001185107117816923)
+    GRN shapiro: ShapiroResult(statistic=0.900767331997557, pvalue=0.22338331911470533)
+    NoVariance ttest: TtestResult(statistic=2.608777471822798, pvalue=0.017768287313982643, df=18.0)
+    Variance ttest: TtestResult(statistic=2.6087774718227985, pvalue=0.019962683269267926, df=14.742416415700685)
+    Wilcoxon: WilcoxonResult(statistic=6.0, pvalue=0.02734375)
+    ________________________________________________________
+    Gen 14
+    CPPN shapiro: ShapiroResult(statistic=0.6270482292092653, pvalue=0.00011639885279979827)
+    GRN shapiro: ShapiroResult(statistic=0.8806861242507962, pvalue=0.13288132908360795)
+    NoVariance ttest: TtestResult(statistic=1.3762773860524626, pvalue=0.18561737628773145, df=18.0)
+    Variance ttest: TtestResult(statistic=1.3762773860524629, pvalue=0.1865927047248762, df=17.002490486361413)
+    Wilcoxon: WilcoxonResult(statistic=13.0, pvalue=0.16015625)
+    ________________________________________________________
+    Gen 15
+    CPPN shapiro: ShapiroResult(statistic=0.7897521659859639, pvalue=0.010881578102579682)
+    GRN shapiro: ShapiroResult(statistic=0.6957706026451653, pvalue=0.0007828938203675364)
+    NoVariance ttest: TtestResult(statistic=1.4184303069820916, pvalue=0.17314740924666178, df=18.0)
+    Variance ttest: TtestResult(statistic=1.4184303069820916, pvalue=0.1797297661361354, df=12.92235576962911)
+    Wilcoxon: WilcoxonResult(statistic=15.0, pvalue=0.232421875)
+    ________________________________________________________
+    Gen 16
+    CPPN shapiro: ShapiroResult(statistic=0.8050551689749249, pvalue=0.016700513941327984)
+    GRN shapiro: ShapiroResult(statistic=0.9410199711295961, pvalue=0.5644178535014039)
+    NoVariance ttest: TtestResult(statistic=2.061571370232242, pvalue=0.05399290740502043, df=18.0)
+    Variance ttest: TtestResult(statistic=2.061571370232242, pvalue=0.055831931998086164, df=16.04832654058655)
+    Wilcoxon: WilcoxonResult(statistic=12.0, pvalue=0.130859375)
+    ________________________________________________________
+    Gen 17
+    CPPN shapiro: ShapiroResult(statistic=0.7870069655612213, pvalue=0.010075790372306796)
+    GRN shapiro: ShapiroResult(statistic=0.9119231345370502, pvalue=0.2944639251941608)
+    NoVariance ttest: TtestResult(statistic=2.2913417649674717, pvalue=0.03422223153658628, df=18.0)
+    Variance ttest: TtestResult(statistic=2.2913417649674717, pvalue=0.03951770031478877, df=12.83834504114717)
+    Wilcoxon: WilcoxonResult(statistic=11.0, pvalue=0.10546875)
+    ________________________________________________________
+    Gen 18
+    CPPN shapiro: ShapiroResult(statistic=0.6533272151207448, pvalue=0.0002406481488731581)
+    GRN shapiro: ShapiroResult(statistic=0.769256899495601, pvalue=0.0061247945227477976)
+    NoVariance ttest: TtestResult(statistic=-0.1931383788844289, pvalue=0.8490131747694339, df=18.0)
+    Variance ttest: TtestResult(statistic=-0.1931383788844289, pvalue=0.849266235326294, df=16.098816506876368)
+    Wilcoxon: WilcoxonResult(statistic=20.0, pvalue=0.4921875)
+    ________________________________________________________
+    Gen 19
+    CPPN shapiro: ShapiroResult(statistic=0.8111895222364883, pvalue=0.019822436633895026)
+    GRN shapiro: ShapiroResult(statistic=0.9401762024038803, pvalue=0.5549756964099701)
+    NoVariance ttest: TtestResult(statistic=1.1101815952873864, pvalue=0.28153211650803434, df=18.0)
+    Variance ttest: TtestResult(statistic=1.1101815952873861, pvalue=0.28208382632387957, df=17.335025764180862)
+    Wilcoxon: WilcoxonResult(statistic=20.0, pvalue=0.4921875)
+    ________________________________________________________
+    Gen 20
+    CPPN shapiro: ShapiroResult(statistic=0.7428705122382258, pvalue=0.002922157985184222)
+    GRN shapiro: ShapiroResult(statistic=0.7684888838623374, pvalue=0.005994245993819243)
+    NoVariance ttest: TtestResult(statistic=1.6801585416023674, pvalue=0.11019821453654638, df=18.0)
+    Variance ttest: TtestResult(statistic=1.6801585416023674, pvalue=0.11871069316026371, df=12.018521102145607)
+    Wilcoxon: WilcoxonResult(statistic=19.0, pvalue=0.431640625)
+    ________________________________________________________
+    Gen 21
+    CPPN shapiro: ShapiroResult(statistic=0.6602519181251745, pvalue=0.00029156354167482934)
+    GRN shapiro: ShapiroResult(statistic=0.8407039596693847, pvalue=0.044989413291343996)
+    NoVariance ttest: TtestResult(statistic=1.5397326927607324, pvalue=0.14102061357494775, df=18.0)
+    Variance ttest: TtestResult(statistic=1.5397326927607324, pvalue=0.14451009645111762, df=14.958209076488995)
+    Wilcoxon: WilcoxonResult(statistic=13.0, pvalue=0.16015625)
+    ________________________________________________________
+    Gen 22
+    CPPN shapiro: ShapiroResult(statistic=0.6303164918330617, pvalue=0.0001273801804339461)
+    GRN shapiro: ShapiroResult(statistic=0.6792984558028554, pvalue=0.0004948487804850179)
+    NoVariance ttest: TtestResult(statistic=0.27096855308270046, pvalue=0.7894981177876506, df=18.0)
+    Variance ttest: TtestResult(statistic=0.27096855308270046, pvalue=0.7894981294772951, df=17.99993117813344)
+    Wilcoxon: WilcoxonResult(statistic=20.0, pvalue=0.4921875)
+    ________________________________________________________
+    Gen 23
+    CPPN shapiro: ShapiroResult(statistic=0.6415525886529286, pvalue=0.00017373006239420244)
+    GRN shapiro: ShapiroResult(statistic=0.876239024671453, pvalue=0.11810422383612534)
+    NoVariance ttest: TtestResult(statistic=-0.9454261146965512, pvalue=0.35696067190246594, df=18.0)
+    Variance ttest: TtestResult(statistic=-0.9454261146965512, pvalue=0.3666383718830405, df=10.039890570762555)
+    Wilcoxon: WilcoxonResult(statistic=27.0, pvalue=1.0)
+    ________________________________________________________
+    Gen 24
+    CPPN shapiro: ShapiroResult(statistic=0.6799054428117011, pvalue=0.000503274925468606)
+    GRN shapiro: ShapiroResult(statistic=0.8287334516213035, pvalue=0.032305552525213416)
+    NoVariance ttest: TtestResult(statistic=-0.5391153604470559, pvalue=0.5964131700052007, df=18.0)
+    Variance ttest: TtestResult(statistic=-0.5391153604470559, pvalue=0.5994692346186664, df=12.249476822542361)
+    Wilcoxon: WilcoxonResult(statistic=25.0, pvalue=0.845703125)
+    ________________________________________________________
+    Gen 25
+    CPPN shapiro: ShapiroResult(statistic=0.540518304393274, pvalue=1.089667781074826e-05)
+    GRN shapiro: ShapiroResult(statistic=0.7732749001266543, pvalue=0.006855551086112319)
+    NoVariance ttest: TtestResult(statistic=-0.44422108215111966, pvalue=0.6621772397116599, df=18.0)
+    Variance ttest: TtestResult(statistic=-0.44422108215111966, pvalue=0.6656897506187059, df=10.753114852134743)
+    Wilcoxon: WilcoxonResult(statistic=23.0, pvalue=0.6953125)
+    ________________________________________________________
+    Gen 26
+    CPPN shapiro: ShapiroResult(statistic=0.8074406010353414, pvalue=0.01785189618412291)
+    GRN shapiro: ShapiroResult(statistic=0.9353264454181343, pvalue=0.5022723749388679)
+    NoVariance ttest: TtestResult(statistic=1.7342804849505937, pvalue=0.09996067319651686, df=18.0)
+    Variance ttest: TtestResult(statistic=1.7342804849505937, pvalue=0.1031391212759353, df=15.167687549153712)
+    Wilcoxon: WilcoxonResult(statistic=12.0, pvalue=0.130859375)
+    ________________________________________________________
+    Gen 27
+    CPPN shapiro: ShapiroResult(statistic=0.577589503312816, pvalue=2.993141123759934e-05)
+    GRN shapiro: ShapiroResult(statistic=0.8264976742173005, pvalue=0.0303612966390374)
+    NoVariance ttest: TtestResult(statistic=1.038622663307474, pvalue=0.31273178724700607, df=18.0)
+    Variance ttest: TtestResult(statistic=1.038622663307474, pvalue=0.3127617398820834, df=17.960297343048058)
+    Wilcoxon: WilcoxonResult(statistic=13.0, pvalue=0.16015625)
+    ________________________________________________________
+    Gen 28
+    CPPN shapiro: ShapiroResult(statistic=0.5650908012912218, pvalue=2.127480973908447e-05)
+    GRN shapiro: ShapiroResult(statistic=0.7961164343494709, pvalue=0.013005104854790957)
+    NoVariance ttest: TtestResult(statistic=0.34876653694133153, pvalue=0.7313108998547715, df=18.0)
+    Variance ttest: TtestResult(statistic=0.34876653694133153, pvalue=0.73191704692395, df=15.634430455804479)
+    Wilcoxon: WilcoxonResult(statistic=19.0, pvalue=0.431640625)
+    ________________________________________________________
+    Gen 29
+    CPPN shapiro: ShapiroResult(statistic=0.5072657948848913, pvalue=4.425361682849034e-06)
+    GRN shapiro: ShapiroResult(statistic=0.8694337818520488, pvalue=0.09845728563663857)
+    NoVariance ttest: TtestResult(statistic=-0.39719659955923603, pvalue=0.6958928319013916, df=18.0)
+    Variance ttest: TtestResult(statistic=-0.3971965995592361, pvalue=0.6997696258474344, df=9.759865378489021)
+    Wilcoxon: WilcoxonResult(statistic=16.0, pvalue=0.275390625)
+    ________________________________________________________
+    Gen 30
+    CPPN shapiro: ShapiroResult(statistic=0.5585666285240143, pvalue=1.780737458182317e-05)
+    GRN shapiro: ShapiroResult(statistic=0.8462412303201479, pvalue=0.05239698340964682)
+    NoVariance ttest: TtestResult(statistic=-0.898673916268037, pvalue=0.3806909905846897, df=18.0)
+    Variance ttest: TtestResult(statistic=-0.898673916268037, pvalue=0.39100662292667465, df=9.512442645017092)
+    Wilcoxon: WilcoxonResult(statistic=26.0, pvalue=0.921875)
+    ________________________________________________________
+    Gen 31
+    CPPN shapiro: ShapiroResult(statistic=0.5122862734125335, pvalue=5.06874001729062e-06)
+    GRN shapiro: ShapiroResult(statistic=0.9299943768573968, pvalue=0.4478368628300684)
+    NoVariance ttest: TtestResult(statistic=-0.618171206578161, pvalue=0.5442057981956017, df=18.0)
+    Variance ttest: TtestResult(statistic=-0.6181712065781612, pvalue=0.5505448480874227, df=9.809226111545529)
+    Wilcoxon: WilcoxonResult(statistic=21.0, pvalue=0.556640625)
+    ________________________________________________________
+    Gen 32
+    CPPN shapiro: ShapiroResult(statistic=0.46518710734812785, pvalue=1.424473856966713e-06)
+    GRN shapiro: ShapiroResult(statistic=0.9132700403452683, pvalue=0.3042164628839251)
+    NoVariance ttest: TtestResult(statistic=-0.19255076385277592, pvalue=0.8494665824113637, df=18.0)
+    Variance ttest: TtestResult(statistic=-0.19255076385277592, pvalue=0.8508372950545499, df=10.944128842429537)
+    Wilcoxon: WilcoxonResult(statistic=15.0, pvalue=0.232421875)
+    ________________________________________________________
+    Gen 33
+    CPPN shapiro: ShapiroResult(statistic=0.37768070851435664, pvalue=1.3782809447746035e-07)
+    GRN shapiro: ShapiroResult(statistic=0.9775754297768077, pvalue=0.9508838061772307)
+    NoVariance ttest: TtestResult(statistic=-0.8482251174970341, pvalue=0.4074513133385713, df=18.0)
+    Variance ttest: TtestResult(statistic=-0.8482251174970341, pvalue=0.41823081907079274, df=9.029170550200762)
+    Wilcoxon: WilcoxonResult(statistic=15.0, pvalue=0.232421875)
+    ________________________________________________________
+    Gen 34
+    CPPN shapiro: ShapiroResult(statistic=0.40628510509681626, pvalue=2.948443505048914e-07)
+    GRN shapiro: ShapiroResult(statistic=0.7729082038074705, pvalue=0.006785394668602078)
+    NoVariance ttest: TtestResult(statistic=-0.821182893041126, pvalue=0.4222855657763207, df=18.0)
+    Variance ttest: TtestResult(statistic=-0.821182893041126, pvalue=0.4322270125330743, df=9.236016602370638)
+    Wilcoxon: WilcoxonResult(statistic=22.0, pvalue=0.625)
+    ________________________________________________________
+    Gen 35
+    CPPN shapiro: ShapiroResult(statistic=0.39906573047285177, pvalue=2.432913536323916e-07)
+    GRN shapiro: ShapiroResult(statistic=0.9091243319270447, pvalue=0.2750301256701312)
+    NoVariance ttest: TtestResult(statistic=-0.7864775215549975, pvalue=0.4418197434004786, df=18.0)
+    Variance ttest: TtestResult(statistic=-0.7864775215549975, pvalue=0.45152129219096626, df=9.128357504711442)
+    Wilcoxon: WilcoxonResult(statistic=17.0, pvalue=0.322265625)
+    ________________________________________________________
+    Gen 36
+    CPPN shapiro: ShapiroResult(statistic=0.5940318181285456, pvalue=4.695181903082658e-05)
+    GRN shapiro: ShapiroResult(statistic=0.8393566876236234, pvalue=0.043347978164304295)
+    NoVariance ttest: TtestResult(statistic=0.1512998693788442, pvalue=0.8814219480036676, df=18.0)
+    Variance ttest: TtestResult(statistic=0.1512998693788442, pvalue=0.8818391934601917, df=14.394212631722674)
+    Wilcoxon: WilcoxonResult(statistic=17.0, pvalue=0.322265625)
+    ________________________________________________________
+    Gen 37
+    CPPN shapiro: ShapiroResult(statistic=0.4211647378733615, pvalue=4.3840289110033885e-07)
+    GRN shapiro: ShapiroResult(statistic=0.7744426900315414, pvalue=0.007083837932940781)
+    NoVariance ttest: TtestResult(statistic=-0.66445520580733, pvalue=0.514821772349676, df=18.0)
+    Variance ttest: TtestResult(statistic=-0.6644552058073301, pvalue=0.5217903693479615, df=9.757874709947789)
+    Wilcoxon: WilcoxonResult(statistic=22.0, pvalue=0.625)
+    ________________________________________________________
+    Gen 38
+    CPPN shapiro: ShapiroResult(statistic=0.3907082105478703, pvalue=1.9480456849241866e-07)
+    GRN shapiro: ShapiroResult(statistic=0.7335537277166633, pvalue=0.0022507844497375285)
+    NoVariance ttest: TtestResult(statistic=-0.7152892340818314, pvalue=0.483606004815183, df=18.0)
+    Variance ttest: TtestResult(statistic=-0.7152892340818314, pvalue=0.4919767322280574, df=9.310664927355976)
+    Wilcoxon: WilcoxonResult(statistic=20.0, pvalue=0.4921875)
+    ________________________________________________________
+    Gen 39
+    CPPN shapiro: ShapiroResult(statistic=0.4102396281916103, pvalue=3.276016899054999e-07)
+    GRN shapiro: ShapiroResult(statistic=0.760864764543344, pvalue=0.004840031515056484)
+    NoVariance ttest: TtestResult(statistic=-0.6190405928925548, pvalue=0.5436456144159296, df=18.0)
+    Variance ttest: TtestResult(statistic=-0.6190405928925549, pvalue=0.550267325105918, df=9.619558791533283)
+    Wilcoxon: WilcoxonResult(statistic=15.0, pvalue=0.232421875)
+    ________________________________________________________
+    Gen 40
+    CPPN shapiro: ShapiroResult(statistic=0.42271968232264323, pvalue=4.569796428094619e-07)
+    GRN shapiro: ShapiroResult(statistic=0.897819324520141, pvalue=0.20730863526835608)
+    NoVariance ttest: TtestResult(statistic=-0.05590202056987582, pvalue=0.9560357072049668, df=18.0)
+    Variance ttest: TtestResult(statistic=-0.05590202056987582, pvalue=0.956441817762531, df=10.787243210433855)
+    Wilcoxon: WilcoxonResult(statistic=16.0, pvalue=0.275390625)
+    ________________________________________________________
+    Gen 41
+    CPPN shapiro: ShapiroResult(statistic=0.38038768713353177, pvalue=1.4809499759434578e-07)
+    GRN shapiro: ShapiroResult(statistic=0.9323842192487579, pvalue=0.47174915580526033)
+    NoVariance ttest: TtestResult(statistic=-0.7302200514714857, pvalue=0.47465310442879705, df=18.0)
+    Variance ttest: TtestResult(statistic=-0.7302200514714857, pvalue=0.48368782946287503, df=9.070502297797635)
+    Wilcoxon: WilcoxonResult(statistic=10.0, pvalue=0.083984375)
+    ________________________________________________________
+    Gen 42
+    CPPN shapiro: ShapiroResult(statistic=0.4194701299849697, pvalue=4.1902066241412057e-07)
+    GRN shapiro: ShapiroResult(statistic=0.9721372815154894, pvalue=0.9099230094387883)
+    NoVariance ttest: TtestResult(statistic=-0.5817655284970054, pvalue=0.5679398948634574, df=18.0)
+    Variance ttest: TtestResult(statistic=-0.5817655284970054, pvalue=0.5746795748021429, df=9.21447938163423)
+    Wilcoxon: WilcoxonResult(statistic=14.0, pvalue=0.193359375)
+    ________________________________________________________
+    Gen 43
+    CPPN shapiro: ShapiroResult(statistic=0.42616696265251885, pvalue=5.010349941284737e-07)
+    GRN shapiro: ShapiroResult(statistic=0.886065470762008, pvalue=0.15306146847318447)
+    NoVariance ttest: TtestResult(statistic=-0.28858696803897343, pvalue=0.7761944918416545, df=18.0)
+    Variance ttest: TtestResult(statistic=-0.28858696803897343, pvalue=0.7788382251030282, df=9.919100791258112)
+    Wilcoxon: WilcoxonResult(statistic=16.0, pvalue=0.275390625)
+    ________________________________________________________
+    Gen 44
+    CPPN shapiro: ShapiroResult(statistic=0.39528395620869183, pvalue=2.200063405796638e-07)
+    GRN shapiro: ShapiroResult(statistic=0.86079356399595, pvalue=0.07797024187434017)
+    NoVariance ttest: TtestResult(statistic=-0.46476380328828554, pvalue=0.6476732928741081, df=18.0)
+    Variance ttest: TtestResult(statistic=-0.46476380328828554, pvalue=0.6526042342692588, df=9.46795477481106)
+    Wilcoxon: WilcoxonResult(statistic=12.0, pvalue=0.130859375)
+    ________________________________________________________
+    Gen 45
+    CPPN shapiro: ShapiroResult(statistic=0.4282796053303397, pvalue=5.301191020199769e-07)
+    GRN shapiro: ShapiroResult(statistic=0.7877468020266277, pvalue=0.010286906555086501)
+    NoVariance ttest: TtestResult(statistic=-0.8339033237298619, pvalue=0.41526527967873295, df=18.0)
+    Variance ttest: TtestResult(statistic=-0.8339033237298619, pvalue=0.42531412003984814, df=9.264204152066654)
+    Wilcoxon: WilcoxonResult(statistic=27.0, pvalue=1.0)
+    ________________________________________________________
+    Gen 46
+    CPPN shapiro: ShapiroResult(statistic=0.5906024918005375, pvalue=4.2739222894191384e-05)
+    GRN shapiro: ShapiroResult(statistic=0.8591341271208598, pvalue=0.07453477152904787)
+    NoVariance ttest: TtestResult(statistic=0.07361056997409986, pvalue=0.9421321074536959, df=18.0)
+    Variance ttest: TtestResult(statistic=0.07361056997409986, pvalue=0.9423778336458448, df=13.783485964374309)
+    Wilcoxon: WilcoxonResult(statistic=21.0, pvalue=0.556640625)
+    ________________________________________________________
+    Gen 47
+    CPPN shapiro: ShapiroResult(statistic=0.47133825638135673, pvalue=1.6804407944973407e-06)
+    GRN shapiro: ShapiroResult(statistic=0.8679095273330899, pvalue=0.09450378544578679)
+    NoVariance ttest: TtestResult(statistic=-0.6477615788443964, pvalue=0.5253159980349842, df=18.0)
+    Variance ttest: TtestResult(statistic=-0.6477615788443964, pvalue=0.5325395579671526, df=9.462519165768233)
+    Wilcoxon: WilcoxonResult(statistic=22.0, pvalue=0.625)
+    ________________________________________________________
+    Gen 48
+    CPPN shapiro: ShapiroResult(statistic=0.5199810589884889, pvalue=6.242306333298887e-06)
+    GRN shapiro: ShapiroResult(statistic=0.7215949808928926, pvalue=0.0016104810143204211)
+    NoVariance ttest: TtestResult(statistic=-0.4300782700875797, pvalue=0.672243607916893, df=18.0)
+    Variance ttest: TtestResult(statistic=-0.4300782700875797, pvalue=0.6746139214596103, df=12.23941779490247)
+    Wilcoxon: WilcoxonResult(statistic=25.0, pvalue=0.845703125)
+    ________________________________________________________
+    Gen 49
+    CPPN shapiro: ShapiroResult(statistic=0.4098663922690351, pvalue=3.243596486030914e-07)
+    GRN shapiro: ShapiroResult(statistic=0.6991086938147781, pvalue=0.0008592803251461118)
+    NoVariance ttest: TtestResult(statistic=-0.9236707605420937, pvalue=0.3678749201403695, df=18.0)
+    Variance ttest: TtestResult(statistic=-0.9236707605420937, pvalue=0.3794320197213372, df=9.126050611652202)
+    Wilcoxon: WilcoxonResult(statistic=26.0, pvalue=0.921875)
+    ________________________________________________________
+    Gen 50
+    CPPN shapiro: ShapiroResult(statistic=0.41080130455436803, pvalue=3.3254206909060243e-07)
+    GRN shapiro: ShapiroResult(statistic=0.8686703800712428, pvalue=0.09645793310471505)
+    NoVariance ttest: TtestResult(statistic=-0.9346902959427175, pvalue=0.3623187098030679, df=18.0)
+    Variance ttest: TtestResult(statistic=-0.9346902959427175, pvalue=0.37421838403397856, df=9.048787135868936)
+    Wilcoxon: WilcoxonResult(statistic=22.0, pvalue=0.625)
+
+difference
+    ________________________________________________________
+    Gen 1
+    CPPN shapiro: ShapiroResult(statistic=0.9271759004680596, pvalue=0.4206958557007363)
+    GRN shapiro: ShapiroResult(statistic=0.8601592767674453, pvalue=0.07663947927161108)
+    NoVariance ttest: TtestResult(statistic=11.377442740669899, pvalue=1.1839227054923354e-09, df=18.0)
+    Variance ttest: TtestResult(statistic=11.377442740669899, pvalue=7.738652410497541e-09, df=15.200260133176064)
+    Wilcoxon: WilcoxonResult(statistic=0.0, pvalue=0.001953125)
+    ________________________________________________________
+    Gen 2
+    CPPN shapiro: ShapiroResult(statistic=0.9848195659290379, pvalue=0.9857119953563379)
+    GRN shapiro: ShapiroResult(statistic=0.8956344045662706, pvalue=0.19606884527984575)
+    NoVariance ttest: TtestResult(statistic=8.731395480554559, pvalue=6.898472514463953e-08, df=18.0)
+    Variance ttest: TtestResult(statistic=8.731395480554559, pvalue=1.620439053914422e-07, df=16.159305375022008)
+    Wilcoxon: WilcoxonResult(statistic=0.0, pvalue=0.001953125)
+    ________________________________________________________
+    Gen 3
+    CPPN shapiro: ShapiroResult(statistic=0.8091994004176997, pvalue=0.018750932834876166)
+    GRN shapiro: ShapiroResult(statistic=0.9362716140784748, pvalue=0.5123198262088994)
+    NoVariance ttest: TtestResult(statistic=8.007497137344856, pvalue=2.418237972115189e-07, df=18.0)
+    Variance ttest: TtestResult(statistic=8.007497137344856, pvalue=2.8540008463150967e-06, df=12.503976574182774)
+    Wilcoxon: WilcoxonResult(statistic=0.0, pvalue=0.001953125)
+    ________________________________________________________
+    Gen 4
+    CPPN shapiro: ShapiroResult(statistic=0.9242411600986773, pvalue=0.39368868657610173)
+    GRN shapiro: ShapiroResult(statistic=0.945445958090606, pvalue=0.6150355244199879)
+    NoVariance ttest: TtestResult(statistic=13.50791570714631, pvalue=7.340316047376377e-11, df=18.0)
+    Variance ttest: TtestResult(statistic=13.50791570714631, pvalue=1.2414206149833383e-09, df=14.552877416342207)
+    Wilcoxon: WilcoxonResult(statistic=0.0, pvalue=0.001953125)
+    ________________________________________________________
+    Gen 5
+    CPPN shapiro: ShapiroResult(statistic=0.9552212045749865, pvalue=0.730313597176064)
+    GRN shapiro: ShapiroResult(statistic=0.9438618986320312, pvalue=0.596728753189028)
+    NoVariance ttest: TtestResult(statistic=15.247144516899587, pvalue=9.80321698308622e-12, df=18.0)
+    Variance ttest: TtestResult(statistic=15.247144516899583, pvalue=3.1359299666594514e-09, df=12.025764768523791)
+    Wilcoxon: WilcoxonResult(statistic=0.0, pvalue=0.001953125)
+    ________________________________________________________
+    Gen 6
+    CPPN shapiro: ShapiroResult(statistic=0.9121330323882493, pvalue=0.2959664687678832)
+    GRN shapiro: ShapiroResult(statistic=0.9681255233867154, pvalue=0.8729421248914495)
+    NoVariance ttest: TtestResult(statistic=16.36515759704171, pvalue=2.9757221643102434e-12, df=18.0)
+    Variance ttest: TtestResult(statistic=16.36515759704171, pvalue=3.397878583604957e-11, df=15.49840130514575)
+    Wilcoxon: WilcoxonResult(statistic=0.0, pvalue=0.001953125)
+    ________________________________________________________
+    Gen 7
+    CPPN shapiro: ShapiroResult(statistic=0.9675161356443369, pvalue=0.8669086598863827)
+    GRN shapiro: ShapiroResult(statistic=0.924276294670407, pvalue=0.3940043589328185)
+    NoVariance ttest: TtestResult(statistic=17.077154724868848, pvalue=1.4448557237578295e-12, df=18.0)
+    Variance ttest: TtestResult(statistic=17.077154724868848, pvalue=5.950729833512189e-11, df=14.3841501113003)
+    Wilcoxon: WilcoxonResult(statistic=0.0, pvalue=0.001953125)
+    ________________________________________________________
+    Gen 8
+    CPPN shapiro: ShapiroResult(statistic=0.9560232963000369, pvalue=0.7397533933647047)
+    GRN shapiro: ShapiroResult(statistic=0.9124435927093424, pvalue=0.29820126325048923)
+    NoVariance ttest: TtestResult(statistic=15.890827684243819, pvalue=4.890715047601171e-12, df=18.0)
+    Variance ttest: TtestResult(statistic=15.890827684243819, pvalue=1.084536415030562e-10, df=14.765715385175547)
+    Wilcoxon: WilcoxonResult(statistic=0.0, pvalue=0.001953125)
+    ________________________________________________________
+    Gen 9
+    CPPN shapiro: ShapiroResult(statistic=0.8909956836356405, pvalue=0.17400715074601059)
+    GRN shapiro: ShapiroResult(statistic=0.909502170859509, pvalue=0.27758894550615953)
+    NoVariance ttest: TtestResult(statistic=11.749360073828212, pvalue=7.083371495077083e-10, df=18.0)
+    Variance ttest: TtestResult(statistic=11.749360073828212, pvalue=1.0946778012053139e-07, df=11.317629218710815)
+    Wilcoxon: WilcoxonResult(statistic=0.0, pvalue=0.001953125)
+    ________________________________________________________
+    Gen 10
+    CPPN shapiro: ShapiroResult(statistic=0.8793297718318112, pvalue=0.12820007202590183)
+    GRN shapiro: ShapiroResult(statistic=0.9128403648651648, pvalue=0.3010767455817819)
+    NoVariance ttest: TtestResult(statistic=11.790172044283192, pvalue=6.700331930027845e-10, df=18.0)
+    Variance ttest: TtestResult(statistic=11.79017204428319, pvalue=2.385279447992438e-08, df=13.098262418322479)
+    Wilcoxon: WilcoxonResult(statistic=0.0, pvalue=0.001953125)
+    ________________________________________________________
+    Gen 11
+    CPPN shapiro: ShapiroResult(statistic=0.8511081924577005, pvalue=0.059879093508161424)
+    GRN shapiro: ShapiroResult(statistic=0.9007467510235072, pvalue=0.22326737646573452)
+    NoVariance ttest: TtestResult(statistic=10.003310044232338, pvalue=8.885573849118856e-09, df=18.0)
+    Variance ttest: TtestResult(statistic=10.003310044232338, pvalue=7.609968172575242e-08, df=14.316027899603586)
+    Wilcoxon: WilcoxonResult(statistic=0.0, pvalue=0.001953125)
+    ________________________________________________________
+    Gen 12
+    CPPN shapiro: ShapiroResult(statistic=0.8069785159578029, pvalue=0.017622872943845066)
+    GRN shapiro: ShapiroResult(statistic=0.88980392358673, pvalue=0.16871621680797821)
+    NoVariance ttest: TtestResult(statistic=9.032794596291788, pvalue=4.171986275698449e-08, df=18.0)
+    Variance ttest: TtestResult(statistic=9.032794596291788, pvalue=8.779396458709012e-08, df=16.462254784980658)
+    Wilcoxon: WilcoxonResult(statistic=0.0, pvalue=0.001953125)
+    ________________________________________________________
+    Gen 13
+    CPPN shapiro: ShapiroResult(statistic=0.9008707235342618, pvalue=0.22396657791541058)
+    GRN shapiro: ShapiroResult(statistic=0.8495936194393944, pvalue=0.05744585287325554)
+    NoVariance ttest: TtestResult(statistic=9.441540174129946, pvalue=2.146413993255741e-08, df=18.0)
+    Variance ttest: TtestResult(statistic=9.441540174129946, pvalue=5.7974299577491955e-08, df=16.08580824065403)
+    Wilcoxon: WilcoxonResult(statistic=0.0, pvalue=0.001953125)
+    ________________________________________________________
+    Gen 14
+    CPPN shapiro: ShapiroResult(statistic=0.8530849982077656, pvalue=0.06320580614472208)
+    GRN shapiro: ShapiroResult(statistic=0.8941090299370389, pvalue=0.18854975485262826)
+    NoVariance ttest: TtestResult(statistic=8.379795776186334, pvalue=1.2581090945540663e-07, df=18.0)
+    Variance ttest: TtestResult(statistic=8.379795776186334, pvalue=2.3481959577690722e-07, df=16.556888560171632)
+    Wilcoxon: WilcoxonResult(statistic=0.0, pvalue=0.001953125)
+    ________________________________________________________
+    Gen 15
+    CPPN shapiro: ShapiroResult(statistic=0.9538152849412332, pvalue=0.7137044555494615)
+    GRN shapiro: ShapiroResult(statistic=0.8951472310727074, pvalue=0.19363854780053352)
+    NoVariance ttest: TtestResult(statistic=8.278655808466757, pvalue=1.4998376883792264e-07, df=18.0)
+    Variance ttest: TtestResult(statistic=8.278655808466757, pvalue=4.6780624287641973e-07, df=15.39568397091717)
+    Wilcoxon: WilcoxonResult(statistic=0.0, pvalue=0.001953125)
+    ________________________________________________________
+    Gen 16
+    CPPN shapiro: ShapiroResult(statistic=0.9317324325453248, pvalue=0.4651474309741206)
+    GRN shapiro: ShapiroResult(statistic=0.925189728465621, pvalue=0.4022765641024423)
+    NoVariance ttest: TtestResult(statistic=7.220446173657312, pvalue=1.0221125298099034e-06, df=18.0)
+    Variance ttest: TtestResult(statistic=7.220446173657312, pvalue=2.115547708103185e-06, df=15.903448693292823)
+    Wilcoxon: WilcoxonResult(statistic=0.0, pvalue=0.001953125)
+    ________________________________________________________
+    Gen 17
+    CPPN shapiro: ShapiroResult(statistic=0.8794779981699443, pvalue=0.12870403708984235)
+    GRN shapiro: ShapiroResult(statistic=0.9235880737389123, pvalue=0.38785485969367295)
+    NoVariance ttest: TtestResult(statistic=7.3285658689638735, pvalue=8.34386711742808e-07, df=18.0)
+    Variance ttest: TtestResult(statistic=7.3285658689638735, pvalue=1.2818040779071727e-06, df=16.76487017204898)
+    Wilcoxon: WilcoxonResult(statistic=0.0, pvalue=0.001953125)
+    ________________________________________________________
+    Gen 18
+    CPPN shapiro: ShapiroResult(statistic=0.9095823061650015, pvalue=0.2781342185052942)
+    GRN shapiro: ShapiroResult(statistic=0.926594969322488, pvalue=0.4152474288671797)
+    NoVariance ttest: TtestResult(statistic=7.352785616897667, pvalue=7.97478962364148e-07, df=18.0)
+    Variance ttest: TtestResult(statistic=7.352785616897667, pvalue=3.2597846670135903e-06, df=14.240535156946244)
+    Wilcoxon: WilcoxonResult(statistic=0.0, pvalue=0.001953125)
+    ________________________________________________________
+    Gen 19
+    CPPN shapiro: ShapiroResult(statistic=0.9320261211087455, pvalue=0.46811475325370705)
+    GRN shapiro: ShapiroResult(statistic=0.9557452321775993, pvalue=0.7364844982774927)
+    NoVariance ttest: TtestResult(statistic=6.607068984207224, pvalue=3.3305263862553274e-06, df=18.0)
+    Variance ttest: TtestResult(statistic=6.607068984207224, pvalue=5.327599061929539e-06, df=16.398848805088086)
+    Wilcoxon: WilcoxonResult(statistic=0.0, pvalue=0.001953125)
+    ________________________________________________________
+    Gen 20
+    CPPN shapiro: ShapiroResult(statistic=0.9393216061656844, pvalue=0.5454896984813226)
+    GRN shapiro: ShapiroResult(statistic=0.907655056508579, pvalue=0.2652690179705464)
+    NoVariance ttest: TtestResult(statistic=5.713757727533349, pvalue=2.0360502971365083e-05, df=18.0)
+    Variance ttest: TtestResult(statistic=5.713757727533349, pvalue=3.680646506647207e-05, df=15.428165245237828)
+    Wilcoxon: WilcoxonResult(statistic=1.0, pvalue=0.00390625)
+    ________________________________________________________
+    Gen 21
+    CPPN shapiro: ShapiroResult(statistic=0.8157820250504757, pvalue=0.022532106356938798)
+    GRN shapiro: ShapiroResult(statistic=0.9828023806580461, pvalue=0.9783871754060524)
+    NoVariance ttest: TtestResult(statistic=5.842180568564981, pvalue=1.559512655649813e-05, df=18.0)
+    Variance ttest: TtestResult(statistic=5.842180568564981, pvalue=1.6168463458822784e-05, df=17.838062553326182)
+    Wilcoxon: WilcoxonResult(statistic=3.0, pvalue=0.009765625)
+    ________________________________________________________
+    Gen 22
+    CPPN shapiro: ShapiroResult(statistic=0.8538305410761482, pvalue=0.06450641082243626)
+    GRN shapiro: ShapiroResult(statistic=0.93162573051319, pvalue=0.46407235140257563)
+    NoVariance ttest: TtestResult(statistic=7.930418283307734, pvalue=2.7747761077153413e-07, df=18.0)
+    Variance ttest: TtestResult(statistic=7.930418283307734, pvalue=3.4584496077986485e-07, df=17.43345341584832)
+    Wilcoxon: WilcoxonResult(statistic=0.0, pvalue=0.001953125)
+    ________________________________________________________
+    Gen 23
+    CPPN shapiro: ShapiroResult(statistic=0.8742594500605698, pvalue=0.11203644478932795)
+    GRN shapiro: ShapiroResult(statistic=0.9455380692925571, pvalue=0.616105683338643)
+    NoVariance ttest: TtestResult(statistic=6.766549460918554, pvalue=2.4377760478975816e-06, df=18.0)
+    Variance ttest: TtestResult(statistic=6.766549460918554, pvalue=2.5174659399767898e-06, df=17.890516689408983)
+    Wilcoxon: WilcoxonResult(statistic=2.0, pvalue=0.005859375)
+    ________________________________________________________
+    Gen 24
+    CPPN shapiro: ShapiroResult(statistic=0.8560651979518885, pvalue=0.0685618536921888)
+    GRN shapiro: ShapiroResult(statistic=0.9791110392981971, pvalue=0.9602333399434643)
+    NoVariance ttest: TtestResult(statistic=5.5727486309626, pvalue=2.7349833883380897e-05, df=18.0)
+    Variance ttest: TtestResult(statistic=5.5727486309626, pvalue=3.354109547884587e-05, df=17.018893853936646)
+    Wilcoxon: WilcoxonResult(statistic=3.0, pvalue=0.009765625)
+    ________________________________________________________
+    Gen 25
+    CPPN shapiro: ShapiroResult(statistic=0.8894211696228608, pvalue=0.1670484175700067)
+    GRN shapiro: ShapiroResult(statistic=0.9239235873800369, pvalue=0.3908438564259504)
+    NoVariance ttest: TtestResult(statistic=5.671740538072193, pvalue=2.2226377267931407e-05, df=18.0)
+    Variance ttest: TtestResult(statistic=5.671740538072193, pvalue=2.2347694768068233e-05, df=17.973984996118528)
+    Wilcoxon: WilcoxonResult(statistic=2.0, pvalue=0.005859375)
+    ________________________________________________________
+    Gen 26
+    CPPN shapiro: ShapiroResult(statistic=0.8631840996810334, pvalue=0.08318811788968782)
+    GRN shapiro: ShapiroResult(statistic=0.8504074196523157, pvalue=0.058741075149000656)
+    NoVariance ttest: TtestResult(statistic=4.9952412140998215, pvalue=9.380266381145758e-05, df=18.0)
+    Variance ttest: TtestResult(statistic=4.9952412140998215, pvalue=0.00010610139342152468, df=17.24878571184782)
+    Wilcoxon: WilcoxonResult(statistic=0.0, pvalue=0.001953125)
+    ________________________________________________________
+    Gen 27
+    CPPN shapiro: ShapiroResult(statistic=0.8347810035277816, pvalue=0.0381992432436941)
+    GRN shapiro: ShapiroResult(statistic=0.8695632430275686, pvalue=0.09880023410547434)
+    NoVariance ttest: TtestResult(statistic=3.7877656695819577, pvalue=0.0013476343629325344, df=18.0)
+    Variance ttest: TtestResult(statistic=3.7877656695819577, pvalue=0.0019064930539866628, df=14.411109859972402)
+    Wilcoxon: WilcoxonResult(statistic=6.0, pvalue=0.02734375)
+    ________________________________________________________
+    Gen 28
+    CPPN shapiro: ShapiroResult(statistic=0.8827492005272751, pvalue=0.14030879231315846)
+    GRN shapiro: ShapiroResult(statistic=0.941548297440822, pvalue=0.5703670789253088)
+    NoVariance ttest: TtestResult(statistic=3.0913465265275732, pvalue=0.006297371020910749, df=18.0)
+    Variance ttest: TtestResult(statistic=3.0913465265275732, pvalue=0.008307068556314934, df=13.431324703788082)
+    Wilcoxon: WilcoxonResult(statistic=6.0, pvalue=0.02734375)
+    ________________________________________________________
+    Gen 29
+    CPPN shapiro: ShapiroResult(statistic=0.9317643872063578, pvalue=0.46546970262527737)
+    GRN shapiro: ShapiroResult(statistic=0.9704628706233331, pvalue=0.8951034185873648)
+    NoVariance ttest: TtestResult(statistic=2.1166126532956167, pvalue=0.04848411438481476, df=18.0)
+    Variance ttest: TtestResult(statistic=2.1166126532956167, pvalue=0.054524773755899515, df=12.76939021294712)
+    Wilcoxon: WilcoxonResult(statistic=13.0, pvalue=0.16015625)
+    ________________________________________________________
+    Gen 30
+    CPPN shapiro: ShapiroResult(statistic=0.8736030914044843, pvalue=0.11009043735439894)
+    GRN shapiro: ShapiroResult(statistic=0.9424209096527644, pvalue=0.5802526540392744)
+    NoVariance ttest: TtestResult(statistic=1.6569403557503901, pvalue=0.11485843428897405, df=18.0)
+    Variance ttest: TtestResult(statistic=1.6569403557503901, pvalue=0.12471140157491861, df=11.425078169506477)
+    Wilcoxon: WilcoxonResult(statistic=15.0, pvalue=0.232421875)
+    ________________________________________________________
+    Gen 31
+    CPPN shapiro: ShapiroResult(statistic=0.882646687171305, pvalue=0.1399307735250131)
+    GRN shapiro: ShapiroResult(statistic=0.9485659665491492, pvalue=0.6515643120620218)
+    NoVariance ttest: TtestResult(statistic=1.2921486329431573, pvalue=0.21264938251569035, df=18.0)
+    Variance ttest: TtestResult(statistic=1.2921486329431573, pvalue=0.22380398040337776, df=10.584583003200322)
+    Wilcoxon: WilcoxonResult(statistic=18.0, pvalue=0.375)
+    ________________________________________________________
+    Gen 32
+    CPPN shapiro: ShapiroResult(statistic=0.9055498126578979, pvalue=0.251799494239068)
+    GRN shapiro: ShapiroResult(statistic=0.950966557048096, pvalue=0.679945508197686)
+    NoVariance ttest: TtestResult(statistic=1.2439162812832618, pvalue=0.22948663980338213, df=18.0)
+    Variance ttest: TtestResult(statistic=1.243916281283262, pvalue=0.23889537465629682, df=11.218177732991471)
+    Wilcoxon: WilcoxonResult(statistic=16.0, pvalue=0.275390625)
+    ________________________________________________________
+    Gen 33
+    CPPN shapiro: ShapiroResult(statistic=0.8911945372358048, pvalue=0.17490458292588168)
+    GRN shapiro: ShapiroResult(statistic=0.9404393857433269, pvalue=0.5579128638984167)
+    NoVariance ttest: TtestResult(statistic=1.0469625980725792, pvalue=0.3089728501111067, df=18.0)
+    Variance ttest: TtestResult(statistic=1.0469625980725792, pvalue=0.31270451701234864, df=14.123508093403853)
+    Wilcoxon: WilcoxonResult(statistic=18.0, pvalue=0.375)
+    ________________________________________________________
+    Gen 34
+    CPPN shapiro: ShapiroResult(statistic=0.8786860851699463, pvalue=0.1260329339520247)
+    GRN shapiro: ShapiroResult(statistic=0.9780583490408885, pvalue=0.9539353778018067)
+    NoVariance ttest: TtestResult(statistic=0.8479689144952103, pvalue=0.40759025739919874, df=18.0)
+    Variance ttest: TtestResult(statistic=0.8479689144952104, pvalue=0.41177395856868304, df=13.01941377899193)
+    Wilcoxon: WilcoxonResult(statistic=17.0, pvalue=0.322265625)
+    ________________________________________________________
+    Gen 35
+    CPPN shapiro: ShapiroResult(statistic=0.7844783730438752, pvalue=0.009386321079722345)
+    GRN shapiro: ShapiroResult(statistic=0.9072706248701649, pvalue=0.2627643116462549)
+    NoVariance ttest: TtestResult(statistic=1.1381068128189682, pvalue=0.2699982570992969, df=18.0)
+    Variance ttest: TtestResult(statistic=1.1381068128189682, pvalue=0.27705111675376937, df=12.132898442919144)
+    Wilcoxon: WilcoxonResult(statistic=18.0, pvalue=0.375)
+    ________________________________________________________
+    Gen 36
+    CPPN shapiro: ShapiroResult(statistic=0.862004605748947, pvalue=0.08057303180362094)
+    GRN shapiro: ShapiroResult(statistic=0.9262495083073877, pvalue=0.41203128989501203)
+    NoVariance ttest: TtestResult(statistic=1.1675877752451007, pvalue=0.2582073479253284, df=18.0)
+    Variance ttest: TtestResult(statistic=1.1675877752451007, pvalue=0.2609094666095174, df=15.24603505715425)
+    Wilcoxon: WilcoxonResult(statistic=17.0, pvalue=0.322265625)
+    ________________________________________________________
+    Gen 37
+    CPPN shapiro: ShapiroResult(statistic=0.8365371099189212, pvalue=0.04010021854804465)
+    GRN shapiro: ShapiroResult(statistic=0.874040928063659, pvalue=0.11138497579154205)
+    NoVariance ttest: TtestResult(statistic=1.3314609563196347, pvalue=0.1996548236148641, df=18.0)
+    Variance ttest: TtestResult(statistic=1.3314609563196347, pvalue=0.2049520905114366, df=13.582951361080362)
+    Wilcoxon: WilcoxonResult(statistic=16.0, pvalue=0.275390625)
+    ________________________________________________________
+    Gen 38
+    CPPN shapiro: ShapiroResult(statistic=0.8859780100433899, pvalue=0.152711794101546)
+    GRN shapiro: ShapiroResult(statistic=0.9341303186538751, pvalue=0.48972335960170027)
+    NoVariance ttest: TtestResult(statistic=2.47660568848708, pvalue=0.023418017833814173, df=18.0)
+    Variance ttest: TtestResult(statistic=2.47660568848708, pvalue=0.023837151746715083, df=17.344903418338728)
+    Wilcoxon: WilcoxonResult(statistic=6.0, pvalue=0.02734375)
+    ________________________________________________________
+    Gen 39
+    CPPN shapiro: ShapiroResult(statistic=0.8666397976813609, pvalue=0.09132649247463981)
+    GRN shapiro: ShapiroResult(statistic=0.8961379695425045, pvalue=0.1986097064477943)
+    NoVariance ttest: TtestResult(statistic=1.8269381446164121, pvalue=0.08433922933044469, df=18.0)
+    Variance ttest: TtestResult(statistic=1.8269381446164121, pvalue=0.08450196718557254, df=17.825982006544216)
+    Wilcoxon: WilcoxonResult(statistic=15.0, pvalue=0.232421875)
+    ________________________________________________________
+    Gen 40
+    CPPN shapiro: ShapiroResult(statistic=0.8199945147787217, pvalue=0.025338175826733835)
+    GRN shapiro: ShapiroResult(statistic=0.8518745085994075, pvalue=0.06114804303377753)
+    NoVariance ttest: TtestResult(statistic=1.5533456042799734, pvalue=0.13774621758664107, df=18.0)
+    Variance ttest: TtestResult(statistic=1.5533456042799734, pvalue=0.1403742948835434, df=15.612826758024978)
+    Wilcoxon: WilcoxonResult(statistic=15.0, pvalue=0.232421875)
+    ________________________________________________________
+    Gen 41
+    CPPN shapiro: ShapiroResult(statistic=0.972413907250804, pvalue=0.912279196593363)
+    GRN shapiro: ShapiroResult(statistic=0.9427717883661831, pvalue=0.5842477220664465)
+    NoVariance ttest: TtestResult(statistic=1.3651096398225286, pvalue=0.18903922683152263, df=18.0)
+    Variance ttest: TtestResult(statistic=1.3651096398225286, pvalue=0.18946736447268672, df=17.54663331561944)
+    Wilcoxon: WilcoxonResult(statistic=20.0, pvalue=0.4921875)
+    ________________________________________________________
+    Gen 42
+    CPPN shapiro: ShapiroResult(statistic=0.8227111874075638, pvalue=0.02732816437753731)
+    GRN shapiro: ShapiroResult(statistic=0.9067878815249939, pvalue=0.2596477422926094)
+    NoVariance ttest: TtestResult(statistic=1.287155512078804, pvalue=0.21434628589865998, df=18.0)
+    Variance ttest: TtestResult(statistic=1.287155512078804, pvalue=0.2143619814006642, df=17.982424751601286)
+    Wilcoxon: WilcoxonResult(statistic=18.0, pvalue=0.375)
+    ________________________________________________________
+    Gen 43
+    CPPN shapiro: ShapiroResult(statistic=0.8668917079762846, pvalue=0.0919486340465539)
+    GRN shapiro: ShapiroResult(statistic=0.9556267017973813, pvalue=0.7350898470306939)
+    NoVariance ttest: TtestResult(statistic=1.345102600296579, pvalue=0.1952954250268948, df=18.0)
+    Variance ttest: TtestResult(statistic=1.345102600296579, pvalue=0.19674103596349296, df=16.54479027713618)
+    Wilcoxon: WilcoxonResult(statistic=15.0, pvalue=0.232421875)
+    ________________________________________________________
+    Gen 44
+    CPPN shapiro: ShapiroResult(statistic=0.9112804366071519, pvalue=0.2899026042023759)
+    GRN shapiro: ShapiroResult(statistic=0.863993351734013, pvalue=0.08502922528635659)
+    NoVariance ttest: TtestResult(statistic=1.1635195208725695, pvalue=0.2598110507115257, df=18.0)
+    Variance ttest: TtestResult(statistic=1.1635195208725695, pvalue=0.2619683686782236, df=15.726970787131112)
+    Wilcoxon: WilcoxonResult(statistic=17.0, pvalue=0.322265625)
+    ________________________________________________________
+    Gen 45
+    CPPN shapiro: ShapiroResult(statistic=0.9448600796022472, pvalue=0.6082426872513024)
+    GRN shapiro: ShapiroResult(statistic=0.9179633684626599, pvalue=0.3402813612301575)
+    NoVariance ttest: TtestResult(statistic=1.0710706865208013, pvalue=0.29828960542463334, df=18.0)
+    Variance ttest: TtestResult(statistic=1.0710706865208013, pvalue=0.2984677938754633, df=17.772799426696945)
+    Wilcoxon: WilcoxonResult(statistic=21.0, pvalue=0.556640625)
+    ________________________________________________________
+    Gen 46
+    CPPN shapiro: ShapiroResult(statistic=0.9357446628395274, pvalue=0.5067040839158541)
+    GRN shapiro: ShapiroResult(statistic=0.8435518081193876, pvalue=0.04866150543188795)
+    NoVariance ttest: TtestResult(statistic=0.4518227020637378, pvalue=0.6567937588321857, df=18.0)
+    Variance ttest: TtestResult(statistic=0.4518227020637378, pvalue=0.6571816730443446, df=16.781862774964363)
+    Wilcoxon: WilcoxonResult(statistic=26.0, pvalue=0.921875)
+    ________________________________________________________
+    Gen 47
+    CPPN shapiro: ShapiroResult(statistic=0.9130375233427949, pvalue=0.3025140851390906)
+    GRN shapiro: ShapiroResult(statistic=0.9494550887852818, pvalue=0.6620574662447969)
+    NoVariance ttest: TtestResult(statistic=0.7078817778216673, pvalue=0.48808438067378523, df=18.0)
+    Variance ttest: TtestResult(statistic=0.7078817778216674, pvalue=0.48876947108849644, df=16.720808338101367)
+    Wilcoxon: WilcoxonResult(statistic=18.0, pvalue=0.375)
+    ________________________________________________________
+    Gen 48
+    CPPN shapiro: ShapiroResult(statistic=0.9522306418926235, pvalue=0.6949297630414661)
+    GRN shapiro: ShapiroResult(statistic=0.8904889008183902, pvalue=0.1717389888355479)
+    NoVariance ttest: TtestResult(statistic=0.15957930859960073, pvalue=0.8749894956639596, df=18.0)
+    Variance ttest: TtestResult(statistic=0.15957930859960073, pvalue=0.8752215369641517, df=15.904036526695467)
+    Wilcoxon: WilcoxonResult(statistic=27.0, pvalue=1.0)
+    ________________________________________________________
+    Gen 49
+    CPPN shapiro: ShapiroResult(statistic=0.936276381323839, pvalue=0.512370791298083)
+    GRN shapiro: ShapiroResult(statistic=0.9218141718446905, pvalue=0.37233469813519926)
+    NoVariance ttest: TtestResult(statistic=0.40339111335932926, pvalue=0.6914120607025587, df=18.0)
+    Variance ttest: TtestResult(statistic=0.40339111335932926, pvalue=0.692200271717488, df=15.415895093859904)
+    Wilcoxon: WilcoxonResult(statistic=24.0, pvalue=0.76953125)
+    ________________________________________________________
+    Gen 50
+    CPPN shapiro: ShapiroResult(statistic=0.9486371984754067, pvalue=0.652403918472766)
+    GRN shapiro: ShapiroResult(statistic=0.9438591648200279, pvalue=0.5966973272424655)
+    NoVariance ttest: TtestResult(statistic=0.2201773066138979, pvalue=0.8282109355585694, df=18.0)
+    Variance ttest: TtestResult(statistic=0.2201773066138979, pvalue=0.8287388595109045, df=14.812213260152257)
+    Wilcoxon: WilcoxonResult(statistic=26.0, pvalue=0.921875)
+
+size
+    ________________________________________________________
+    Gen 1
+    CPPN shapiro: ShapiroResult(statistic=0.8497023040307764, pvalue=0.05761721331791974)
+    GRN shapiro: ShapiroResult(statistic=0.9706963215589487, pvalue=0.8972252424534863)
+    NoVariance ttest: TtestResult(statistic=1.5382639481619333, pvalue=0.14137774844989331, df=18.0)
+    Variance ttest: TtestResult(statistic=1.5382639481619336, pvalue=0.15577751861272324, df=9.750839830281938)
+    Wilcoxon: WilcoxonResult(statistic=15.0, pvalue=0.232421875)
+    ________________________________________________________
+    Gen 2
+    CPPN shapiro: ShapiroResult(statistic=0.862975743014193, pvalue=0.0827203166633036)
+    GRN shapiro: ShapiroResult(statistic=0.9207099506305695, pvalue=0.3629142546353481)
+    NoVariance ttest: TtestResult(statistic=0.8471731791118262, pvalue=0.4080219961364775, df=18.0)
+    Variance ttest: TtestResult(statistic=0.8471731791118262, pvalue=0.4150665609332229, df=10.92824361869027)
+    Wilcoxon: WilcoxonResult(statistic=19.0, pvalue=0.431640625)
+    ________________________________________________________
+    Gen 3
+    CPPN shapiro: ShapiroResult(statistic=0.9068587826451447, pvalue=0.2601034832037008)
+    GRN shapiro: ShapiroResult(statistic=0.8295823124303143, pvalue=0.033075396337547504)
+    NoVariance ttest: TtestResult(statistic=4.71861930804285, pvalue=0.00017131941295941863, df=18.0)
+    Variance ttest: TtestResult(statistic=4.718619308042851, pvalue=0.0007653080344910948, df=10.247474613751866)
+    Wilcoxon: WilcoxonResult(statistic=2.0, pvalue=0.005859375)
+    ________________________________________________________
+    Gen 4
+    CPPN shapiro: ShapiroResult(statistic=0.9483805510934635, pvalue=0.6493797795093199)
+    GRN shapiro: ShapiroResult(statistic=0.8708749221026351, pvalue=0.10233961046459655)
+    NoVariance ttest: TtestResult(statistic=8.344001040612335, pvalue=1.3386472792137134e-07, df=18.0)
+    Variance ttest: TtestResult(statistic=8.344001040612337, pvalue=2.248886755778261e-06, df=12.142540315856914)
+    Wilcoxon: WilcoxonResult(statistic=0.0, pvalue=0.001953125)
+    ________________________________________________________
+    Gen 5
+    CPPN shapiro: ShapiroResult(statistic=0.9501691103673908, pvalue=0.6705016473030516)
+    GRN shapiro: ShapiroResult(statistic=0.975527559192738, pvalue=0.9368412508093188)
+    NoVariance ttest: TtestResult(statistic=11.915057580559303, pvalue=5.657452411442687e-10, df=18.0)
+    Variance ttest: TtestResult(statistic=11.915057580559305, pvalue=2.7271104328784057e-08, df=12.77890331532779)
+    Wilcoxon: WilcoxonResult(statistic=0.0, pvalue=0.001953125)
+    ________________________________________________________
+    Gen 6
+    CPPN shapiro: ShapiroResult(statistic=0.8045768126790637, pvalue=0.0164786550155985)
+    GRN shapiro: ShapiroResult(statistic=0.8554562188251857, pvalue=0.06743287496839116)
+    NoVariance ttest: TtestResult(statistic=10.688973935322132, pvalue=3.17284774555128e-09, df=18.0)
+    Variance ttest: TtestResult(statistic=10.688973935322133, pvalue=2.4924055586793923e-07, df=11.529383021510982)
+    Wilcoxon: WilcoxonResult(statistic=0.0, pvalue=0.001953125)
+    ________________________________________________________
+    Gen 7
+    CPPN shapiro: ShapiroResult(statistic=0.9317139552754291, pvalue=0.4649611480416161)
+    GRN shapiro: ShapiroResult(statistic=0.8752712254997498, pvalue=0.11509999921717501)
+    NoVariance ttest: TtestResult(statistic=4.575700310293006, pvalue=0.00023445077872988183, df=18.0)
+    Variance ttest: TtestResult(statistic=4.575700310293007, pvalue=0.0012182372163145791, df=9.326570956899912)
+    Wilcoxon: WilcoxonResult(statistic=0.0, pvalue=0.001953125)
+    ________________________________________________________
+    Gen 8
+    CPPN shapiro: ShapiroResult(statistic=0.9685084243951521, pvalue=0.8766815084459669)
+    GRN shapiro: ShapiroResult(statistic=0.9590455262810162, pvalue=0.7749361371258314)
+    NoVariance ttest: TtestResult(statistic=4.942698168928418, pvalue=0.00010511626522890534, df=18.0)
+    Variance ttest: TtestResult(statistic=4.942698168928418, pvalue=0.0007490295203617965, df=9.19952248085189)
+    Wilcoxon: WilcoxonResult(statistic=0.0, pvalue=0.001953125)
+    ________________________________________________________
+    Gen 9
+    CPPN shapiro: ShapiroResult(statistic=0.9434283129512594, pvalue=0.5917523048924913)
+    GRN shapiro: ShapiroResult(statistic=0.9626395898454275, pvalue=0.8155011812611128)
+    NoVariance ttest: TtestResult(statistic=7.028343592232721, pvalue=1.4715775729001163e-06, df=18.0)
+    Variance ttest: TtestResult(statistic=7.02834359223272, pvalue=4.496849171874323e-05, df=9.569771516829507)
+    Wilcoxon: WilcoxonResult(statistic=0.0, pvalue=0.001953125)
+    ________________________________________________________
+    Gen 10
+    CPPN shapiro: ShapiroResult(statistic=0.9214737361893166, pvalue=0.3694106570568336)
+    GRN shapiro: ShapiroResult(statistic=0.9688797395565414, pvalue=0.8802684141392484)
+    NoVariance ttest: TtestResult(statistic=3.557374650384053, pvalue=0.00225074153006338, df=18.0)
+    Variance ttest: TtestResult(statistic=3.5573746503840535, pvalue=0.006045800933003289, df=9.091955451355421)
+    Wilcoxon: WilcoxonResult(statistic=2.0, pvalue=0.005859375)
+    ________________________________________________________
+    Gen 11
+    CPPN shapiro: ShapiroResult(statistic=0.8591205909184142, pvalue=0.07450735663422606)
+    GRN shapiro: ShapiroResult(statistic=0.9368315060758505, pvalue=0.5183248818673287)
+    NoVariance ttest: TtestResult(statistic=3.7722688704453384, pvalue=0.0013949826885537489, df=18.0)
+    Variance ttest: TtestResult(statistic=3.7722688704453384, pvalue=0.003415049276753488, df=10.382344605057156)
+    Wilcoxon: WilcoxonResult(statistic=3.0, pvalue=0.009765625)
+    ________________________________________________________
+    Gen 12
+    CPPN shapiro: ShapiroResult(statistic=0.8419703638977974, pvalue=0.0465876490732147)
+    GRN shapiro: ShapiroResult(statistic=0.9076891664430892, pvalue=0.2654922374396647)
+    NoVariance ttest: TtestResult(statistic=3.687827096444771, pvalue=0.0016836900457265552, df=18.0)
+    Variance ttest: TtestResult(statistic=3.687827096444771, pvalue=0.004227677740164828, df=9.949582036412583)
+    Wilcoxon: WilcoxonResult(statistic=0.0, pvalue=0.001953125)
+    ________________________________________________________
+    Gen 13
+    CPPN shapiro: ShapiroResult(statistic=0.8328083825182869, pvalue=0.036169229656843466)
+    GRN shapiro: ShapiroResult(statistic=0.9483748317565657, pvalue=0.6493124175561287)
+    NoVariance ttest: TtestResult(statistic=5.67386552721865, pvalue=2.2127917487344606e-05, df=18.0)
+    Variance ttest: TtestResult(statistic=5.673865527218651, pvalue=4.8543388193254105e-05, df=14.63233529781453)
+    Wilcoxon: WilcoxonResult(statistic=0.0, pvalue=0.001953125)
+    ________________________________________________________
+    Gen 14
+    CPPN shapiro: ShapiroResult(statistic=0.8096733221926955, pvalue=0.019000769531821424)
+    GRN shapiro: ShapiroResult(statistic=0.9262062922345856, pvalue=0.4116302163820766)
+    NoVariance ttest: TtestResult(statistic=3.623535226142829, pvalue=0.0019427598811788847, df=18.0)
+    Variance ttest: TtestResult(statistic=3.623535226142829, pvalue=0.0037493309312711704, df=11.464121023903722)
+    Wilcoxon: WilcoxonResult(statistic=4.0, pvalue=0.013671875)
+    ________________________________________________________
+    Gen 15
+    CPPN shapiro: ShapiroResult(statistic=0.9016173244163759, pvalue=0.22821832625842597)
+    GRN shapiro: ShapiroResult(statistic=0.933988100129977, pvalue=0.4882439018496502)
+    NoVariance ttest: TtestResult(statistic=3.6531905534203912, pvalue=0.0018186717240612398, df=18.0)
+    Variance ttest: TtestResult(statistic=3.6531905534203912, pvalue=0.004023919394734064, df=10.617203234622279)
+    Wilcoxon: WilcoxonResult(statistic=3.0, pvalue=0.009765625)
+    ________________________________________________________
+    Gen 16
+    CPPN shapiro: ShapiroResult(statistic=0.912224655085931, pvalue=0.2966243375962243)
+    GRN shapiro: ShapiroResult(statistic=0.9145540867547232, pvalue=0.3137598926344699)
+    NoVariance ttest: TtestResult(statistic=3.5966643664209146, pvalue=0.002062445596688301, df=18.0)
+    Variance ttest: TtestResult(statistic=3.5966643664209137, pvalue=0.0038853214157299055, df=11.557424996826667)
+    Wilcoxon: WilcoxonResult(statistic=6.0, pvalue=0.02734375)
+    ________________________________________________________
+    Gen 17
+    CPPN shapiro: ShapiroResult(statistic=0.9109928510653927, pvalue=0.2878807360985519)
+    GRN shapiro: ShapiroResult(statistic=0.9497545651823655, pvalue=0.6655975116470799)
+    NoVariance ttest: TtestResult(statistic=2.9303376607336284, pvalue=0.008939365316079558, df=18.0)
+    Variance ttest: TtestResult(statistic=2.930337660733628, pvalue=0.014066525909703455, df=10.691508751184182)
+    Wilcoxon: WilcoxonResult(statistic=6.0, pvalue=0.02734375)
+    ________________________________________________________
+    Gen 18
+    CPPN shapiro: ShapiroResult(statistic=0.8739789024061777, pvalue=0.11120071522716601)
+    GRN shapiro: ShapiroResult(statistic=0.9450488779911431, pvalue=0.6104289801102296)
+    NoVariance ttest: TtestResult(statistic=3.4724243256691287, pvalue=0.0027181106457320366, df=18.0)
+    Variance ttest: TtestResult(statistic=3.4724243256691287, pvalue=0.004441982092491919, df=12.323775089507192)
+    Wilcoxon: WilcoxonResult(statistic=2.0, pvalue=0.005859375)
+    ________________________________________________________
+    Gen 19
+    CPPN shapiro: ShapiroResult(statistic=0.9576690277777822, pvalue=0.7590019447757996)
+    GRN shapiro: ShapiroResult(statistic=0.9393202872525425, pvalue=0.5454751205428998)
+    NoVariance ttest: TtestResult(statistic=2.4418331493300296, pvalue=0.025164248029793945, df=18.0)
+    Variance ttest: TtestResult(statistic=2.44183314933003, pvalue=0.0321742933234593, df=11.30569989974038)
+    Wilcoxon: WilcoxonResult(statistic=12.0, pvalue=0.130859375)
+    ________________________________________________________
+    Gen 20
+    CPPN shapiro: ShapiroResult(statistic=0.8996075242788474, pvalue=0.2169318984695418)
+    GRN shapiro: ShapiroResult(statistic=0.9177723791593628, pvalue=0.338749769459192)
+    NoVariance ttest: TtestResult(statistic=2.5327301549140957, pvalue=0.020838042522687176, df=18.0)
+    Variance ttest: TtestResult(statistic=2.5327301549140957, pvalue=0.0284596981032429, df=10.648138272070334)
+    Wilcoxon: WilcoxonResult(statistic=10.0, pvalue=0.083984375)
+    ________________________________________________________
+    Gen 21
+    CPPN shapiro: ShapiroResult(statistic=0.9455717875210836, pvalue=0.616497570663152)
+    GRN shapiro: ShapiroResult(statistic=0.9508003317043155, pvalue=0.6779760955776342)
+    NoVariance ttest: TtestResult(statistic=2.9769174811807853, pvalue=0.008080726699122066, df=18.0)
+    Variance ttest: TtestResult(statistic=2.9769174811807853, pvalue=0.013048670925293836, df=10.617163208033467)
+    Wilcoxon: WilcoxonResult(statistic=7.0, pvalue=0.037109375)
+    ________________________________________________________
+    Gen 22
+    CPPN shapiro: ShapiroResult(statistic=0.9285379533507232, pvalue=0.43366645642962026)
+    GRN shapiro: ShapiroResult(statistic=0.8481537129807175, pvalue=0.05522181543302321)
+    NoVariance ttest: TtestResult(statistic=4.046907920765177, pvalue=0.0007565337083280116, df=18.0)
+    Variance ttest: TtestResult(statistic=4.046907920765177, pvalue=0.0014336646226717179, df=12.768291548304909)
+    Wilcoxon: WilcoxonResult(statistic=0.0, pvalue=0.001953125)
+    ________________________________________________________
+    Gen 23
+    CPPN shapiro: ShapiroResult(statistic=0.9551199050306459, pvalue=0.7291192637041274)
+    GRN shapiro: ShapiroResult(statistic=0.890537547300315, pvalue=0.17195553440785372)
+    NoVariance ttest: TtestResult(statistic=2.0384415847048087, pvalue=0.056472461292706645, df=18.0)
+    Variance ttest: TtestResult(statistic=2.038441584704809, pvalue=0.06826980580326583, df=10.202663357250222)
+    Wilcoxon: WilcoxonResult(statistic=11.0, pvalue=0.10546875)
+    ________________________________________________________
+    Gen 24
+    CPPN shapiro: ShapiroResult(statistic=0.9758846589314206, pvalue=0.9394156465343304)
+    GRN shapiro: ShapiroResult(statistic=0.848508457276681, pvalue=0.05576184159040687)
+    NoVariance ttest: TtestResult(statistic=1.9591341701523868, pvalue=0.06577248576087014, df=18.0)
+    Variance ttest: TtestResult(statistic=1.9591341701523868, pvalue=0.07696308961347618, df=10.581579748534251)
+    Wilcoxon: WilcoxonResult(statistic=10.0, pvalue=0.083984375)
+    ________________________________________________________
+    Gen 25
+    CPPN shapiro: ShapiroResult(statistic=0.936679865605929, pvalue=0.516694627234064)
+    GRN shapiro: ShapiroResult(statistic=0.9150408055755391, pvalue=0.3174406229373985)
+    NoVariance ttest: TtestResult(statistic=1.2717010609861754, pvalue=0.21966560772593008, df=18.0)
+    Variance ttest: TtestResult(statistic=1.2717010609861754, pvalue=0.2236023350981332, df=14.423927127125586)
+    Wilcoxon: WilcoxonResult(statistic=17.0, pvalue=0.322265625)
+    ________________________________________________________
+    Gen 26
+    CPPN shapiro: ShapiroResult(statistic=0.8221760149930973, pvalue=0.02692431196761624)
+    GRN shapiro: ShapiroResult(statistic=0.9375624936504507, pvalue=0.5262231253224876)
+    NoVariance ttest: TtestResult(statistic=1.426957309895968, pvalue=0.1707093005369718, df=18.0)
+    Variance ttest: TtestResult(statistic=1.426957309895968, pvalue=0.17123860241555697, df=17.452610790854497)
+    Wilcoxon: WilcoxonResult(statistic=17.0, pvalue=0.322265625)
+    ________________________________________________________
+    Gen 27
+    CPPN shapiro: ShapiroResult(statistic=0.7391994930898484, pvalue=0.0026364743724090556)
+    GRN shapiro: ShapiroResult(statistic=0.950796500584046, pvalue=0.6779307096434356)
+    NoVariance ttest: TtestResult(statistic=1.7632837137804755, pvalue=0.09482064931112039, df=18.0)
+    Variance ttest: TtestResult(statistic=1.7632837137804755, pvalue=0.09500356241833513, df=17.807719104824027)
+    Wilcoxon: WilcoxonResult(statistic=16.0, pvalue=0.275390625)
+    ________________________________________________________
+    Gen 28
+    CPPN shapiro: ShapiroResult(statistic=0.8288885033664775, pvalue=0.03244484268866715)
+    GRN shapiro: ShapiroResult(statistic=0.8212773284076091, pvalue=0.026259354046079042)
+    NoVariance ttest: TtestResult(statistic=1.3287986869818895, pvalue=0.20051452240614734, df=18.0)
+    Variance ttest: TtestResult(statistic=1.3287986869818895, pvalue=0.20677468950580213, df=12.995750884280286)
+    Wilcoxon: WilcoxonResult(statistic=14.0, pvalue=0.193359375)
+    ________________________________________________________
+    Gen 29
+    CPPN shapiro: ShapiroResult(statistic=0.960382678722884, pvalue=0.790227368029511)
+    GRN shapiro: ShapiroResult(statistic=0.938677696088462, pvalue=0.5383958389126413)
+    NoVariance ttest: TtestResult(statistic=0.08826478428359004, pvalue=0.9306408253111482, df=18.0)
+    Variance ttest: TtestResult(statistic=0.08826478428359004, pvalue=0.9306423762440912, df=17.97117126534963)
+    Wilcoxon: WilcoxonResult(statistic=27.0, pvalue=1.0)
+    ________________________________________________________
+    Gen 30
+    CPPN shapiro: ShapiroResult(statistic=0.8964157792931178, pvalue=0.20002408260093058)
+    GRN shapiro: ShapiroResult(statistic=0.8908646789940721, pvalue=0.17341821985121358)
+    NoVariance ttest: TtestResult(statistic=-0.6045878473018932, pvalue=0.5529984185886937, df=18.0)
+    Variance ttest: TtestResult(statistic=-0.6045878473018932, pvalue=0.5532529357292839, df=17.406538844604192)
+    Wilcoxon: WilcoxonResult(statistic=19.0, pvalue=0.431640625)
+    ________________________________________________________
+    Gen 31
+    CPPN shapiro: ShapiroResult(statistic=0.8988251280644993, pvalue=0.2126735919897234)
+    GRN shapiro: ShapiroResult(statistic=0.9765060629775214, pvalue=0.943770262823014)
+    NoVariance ttest: TtestResult(statistic=-0.25277714352087605, pvalue=0.803304599392411, df=18.0)
+    Variance ttest: TtestResult(statistic=-0.25277714352087605, pvalue=0.8040312018344693, df=14.326933873506718)
+    Wilcoxon: WilcoxonResult(statistic=27.0, pvalue=1.0)
+    ________________________________________________________
+    Gen 32
+    CPPN shapiro: ShapiroResult(statistic=0.8457460749725842, pvalue=0.05168885930949993)
+    GRN shapiro: ShapiroResult(statistic=0.8916105159005255, pvalue=0.17679556396638063)
+    NoVariance ttest: TtestResult(statistic=0.4131458302054853, pvalue=0.6843798042043825, df=18.0)
+    Variance ttest: TtestResult(statistic=0.4131458302054853, pvalue=0.684405357481189, df=17.905397394453598)
+    Wilcoxon: WilcoxonResult(statistic=20.0, pvalue=0.4921875)
+    ________________________________________________________
+    Gen 33
+    CPPN shapiro: ShapiroResult(statistic=0.7904690602004314, pvalue=0.01110237544953481)
+    GRN shapiro: ShapiroResult(statistic=0.9045419386162887, pvalue=0.24556242232212389)
+    NoVariance ttest: TtestResult(statistic=-1.0464712185384442, pvalue=0.30919342049349136, df=18.0)
+    Variance ttest: TtestResult(statistic=-1.0464712185384442, pvalue=0.3125933133857009, df=14.399014596386422)
+    Wilcoxon: WilcoxonResult(statistic=19.0, pvalue=0.431640625)
+    ________________________________________________________
+    Gen 34
+    CPPN shapiro: ShapiroResult(statistic=0.7709039147573936, pvalue=0.0064144191062349655)
+    GRN shapiro: ShapiroResult(statistic=0.947999098958333, pvalue=0.6448901219111921)
+    NoVariance ttest: TtestResult(statistic=-1.7404221852957868, pvalue=0.09885253154662503, df=18.0)
+    Variance ttest: TtestResult(statistic=-1.7404221852957868, pvalue=0.10965410004246137, df=10.996856651381437)
+    Wilcoxon: WilcoxonResult(statistic=6.0, pvalue=0.02734375)
+    ________________________________________________________
+    Gen 35
+    CPPN shapiro: ShapiroResult(statistic=0.5880523898257156, pvalue=3.985506654112948e-05)
+    GRN shapiro: ShapiroResult(statistic=0.9553501417721579, pvalue=0.73183313589585)
+    NoVariance ttest: TtestResult(statistic=-1.0070613976151226, pvalue=0.32725212638737566, df=18.0)
+    Variance ttest: TtestResult(statistic=-1.0070613976151226, pvalue=0.3338761827070348, df=11.941459063192081)
+    Wilcoxon: WilcoxonResult(statistic=20.0, pvalue=0.4921875)
+    ________________________________________________________
+    Gen 36
+    CPPN shapiro: ShapiroResult(statistic=0.6704797240025453, pvalue=0.00038727062254254675)
+    GRN shapiro: ShapiroResult(statistic=0.9515891906976253, pvalue=0.6873250702540533)
+    NoVariance ttest: TtestResult(statistic=-1.5647978008724321, pvalue=0.13504101111574238, df=18.0)
+    Variance ttest: TtestResult(statistic=-1.5647978008724324, pvalue=0.14548571355106993, df=11.176846776861513)
+    Wilcoxon: WilcoxonResult(statistic=5.0, pvalue=0.01953125)
+    ________________________________________________________
+    Gen 37
+    CPPN shapiro: ShapiroResult(statistic=0.577736106354578, pvalue=3.005163456118461e-05)
+    GRN shapiro: ShapiroResult(statistic=0.8370891158179703, pvalue=0.04071669725099283)
+    NoVariance ttest: TtestResult(statistic=-0.8486426205851765, pvalue=0.4072249586419574, df=18.0)
+    Variance ttest: TtestResult(statistic=-0.8486426205851765, pvalue=0.41585467273334586, df=10.040234072798697)
+    Wilcoxon: WilcoxonResult(statistic=20.0, pvalue=0.4921875)
+    ________________________________________________________
+    Gen 38
+    CPPN shapiro: ShapiroResult(statistic=0.7720592258196572, pvalue=0.006625708672309529)
+    GRN shapiro: ShapiroResult(statistic=0.9741436340067782, pvalue=0.9263817767221798)
+    NoVariance ttest: TtestResult(statistic=-1.0748583883442275, pvalue=0.29663573067501364, df=18.0)
+    Variance ttest: TtestResult(statistic=-1.0748583883442278, pvalue=0.2973693070563824, df=17.102265728913537)
+    Wilcoxon: WilcoxonResult(statistic=18.0, pvalue=0.375)
+    ________________________________________________________
+    Gen 39
+    CPPN shapiro: ShapiroResult(statistic=0.74294760935367, pvalue=0.002928479385105139)
+    GRN shapiro: ShapiroResult(statistic=0.8924761098233187, pvalue=0.18079020873918367)
+    NoVariance ttest: TtestResult(statistic=-1.6324663603962126, pvalue=0.11995171691903585, df=18.0)
+    Variance ttest: TtestResult(statistic=-1.6324663603962128, pvalue=0.12613932297071875, df=13.232538681688162)
+    Wilcoxon: WilcoxonResult(statistic=16.0, pvalue=0.275390625)
+    ________________________________________________________
+    Gen 40
+    CPPN shapiro: ShapiroResult(statistic=0.7209723141668811, pvalue=0.0015826722842890942)
+    GRN shapiro: ShapiroResult(statistic=0.8999980868529971, pvalue=0.21908574808393683)
+    NoVariance ttest: TtestResult(statistic=-0.5238330684069467, pvalue=0.6067850030109967, df=18.0)
+    Variance ttest: TtestResult(statistic=-0.5238330684069467, pvalue=0.6079823537518803, df=15.131760798183702)
+    Wilcoxon: WilcoxonResult(statistic=24.0, pvalue=0.76953125)
+    ________________________________________________________
+    Gen 41
+    CPPN shapiro: ShapiroResult(statistic=0.8466348059053272, pvalue=0.052966570637442506)
+    GRN shapiro: ShapiroResult(statistic=0.8835332871292362, pvalue=0.1432316903226042)
+    NoVariance ttest: TtestResult(statistic=-0.820794430124462, pvalue=0.42250113652842325, df=18.0)
+    Variance ttest: TtestResult(statistic=-0.8207944301244621, pvalue=0.42520670765716617, df=14.331033165527463)
+    Wilcoxon: WilcoxonResult(statistic=24.0, pvalue=0.76953125)
+    ________________________________________________________
+    Gen 42
+    CPPN shapiro: ShapiroResult(statistic=0.8587316617936777, pvalue=0.07372379511944327)
+    GRN shapiro: ShapiroResult(statistic=0.813389279398842, pvalue=0.021077498790633878)
+    NoVariance ttest: TtestResult(statistic=-1.3586566591615603, pvalue=0.1910393381550874, df=18.0)
+    Variance ttest: TtestResult(statistic=-1.3586566591615599, pvalue=0.19511770097489128, df=14.428784318806658)
+    Wilcoxon: WilcoxonResult(statistic=17.0, pvalue=0.322265625)
+    ________________________________________________________
+    Gen 43
+    CPPN shapiro: ShapiroResult(statistic=0.7007306943556533, pvalue=0.0008990581500744374)
+    GRN shapiro: ShapiroResult(statistic=0.6583892096661625, pvalue=0.00027688726667907733)
+    NoVariance ttest: TtestResult(statistic=-0.7574106876080082, pvalue=0.4586050699380141, df=18.0)
+    Variance ttest: TtestResult(statistic=-0.7574106876080083, pvalue=0.4588963622914052, df=17.47424724120817)
+    Wilcoxon: WilcoxonResult(statistic=18.0, pvalue=0.375)
+    ________________________________________________________
+    Gen 44
+    CPPN shapiro: ShapiroResult(statistic=0.7836240147434588, pvalue=0.009164163473784357)
+    GRN shapiro: ShapiroResult(statistic=0.8318066509077965, pvalue=0.035179298177716437)
+    NoVariance ttest: TtestResult(statistic=-0.9279145920754491, pvalue=0.3657283338686106, df=18.0)
+    Variance ttest: TtestResult(statistic=-0.9279145920754491, pvalue=0.36821781340129756, df=14.923006173086112)
+    Wilcoxon: WilcoxonResult(statistic=19.0, pvalue=0.431640625)
+    ________________________________________________________
+    Gen 45
+    CPPN shapiro: ShapiroResult(statistic=0.880614529165767, pvalue=0.13263028493243167)
+    GRN shapiro: ShapiroResult(statistic=0.7091895683764529, pvalue=0.001138540582940653)
+    NoVariance ttest: TtestResult(statistic=-1.0021707907019766, pvalue=0.3295440218223208, df=18.0)
+    Variance ttest: TtestResult(statistic=-1.0021707907019766, pvalue=0.32960282114299166, df=17.919515254088406)
+    Wilcoxon: WilcoxonResult(statistic=18.0, pvalue=0.375)
+    ________________________________________________________
+    Gen 46
+    CPPN shapiro: ShapiroResult(statistic=0.7545814283491469, pvalue=0.004057947911340894)
+    GRN shapiro: ShapiroResult(statistic=0.9439510277852181, pvalue=0.5977536520549744)
+    NoVariance ttest: TtestResult(statistic=-1.687935696687786, pvalue=0.10867386882339453, df=18.0)
+    Variance ttest: TtestResult(statistic=-1.6879356966877863, pvalue=0.11071178636666486, df=16.087251863015343)
+    Wilcoxon: WilcoxonResult(statistic=17.0, pvalue=0.322265625)
+    ________________________________________________________
+    Gen 47
+    CPPN shapiro: ShapiroResult(statistic=0.8089508810202882, pvalue=0.018621225727002016)
+    GRN shapiro: ShapiroResult(statistic=0.9693685315393494, pvalue=0.8849293992040848)
+    NoVariance ttest: TtestResult(statistic=-1.4718722284522359, pvalue=0.1583240579847865, df=18.0)
+    Variance ttest: TtestResult(statistic=-1.4718722284522359, pvalue=0.1660259107285916, df=12.374753725459378)
+    Wilcoxon: WilcoxonResult(statistic=16.0, pvalue=0.275390625)
+    ________________________________________________________
+    Gen 48
+    CPPN shapiro: ShapiroResult(statistic=0.8374635507703511, pvalue=0.041140141500893464)
+    GRN shapiro: ShapiroResult(statistic=0.7144758856867596, pvalue=0.0013197738195627993)
+    NoVariance ttest: TtestResult(statistic=-2.011528175293095, pvalue=0.059486644117760334, df=18.0)
+    Variance ttest: TtestResult(statistic=-2.0115281752930954, pvalue=0.06450087973352571, df=13.612074224166397)
+    Wilcoxon: WilcoxonResult(statistic=9.0, pvalue=0.064453125)
+    ________________________________________________________
+    Gen 49
+    CPPN shapiro: ShapiroResult(statistic=0.8313854696293177, pvalue=0.03477107267428352)
+    GRN shapiro: ShapiroResult(statistic=0.696965010188526, pvalue=0.0008094084606512381)
+    NoVariance ttest: TtestResult(statistic=-1.5526730088790153, pvalue=0.1379064955941901, df=18.0)
+    Variance ttest: TtestResult(statistic=-1.5526730088790153, pvalue=0.14692343016418502, df=11.788181116966989)
+    Wilcoxon: WilcoxonResult(statistic=16.0, pvalue=0.275390625)
+    ________________________________________________________
+    Gen 50
+    CPPN shapiro: ShapiroResult(statistic=0.8887446523110814, pvalue=0.16413748312722165)
+    GRN shapiro: ShapiroResult(statistic=0.9196591611421567, pvalue=0.35412093580573534)
+    NoVariance ttest: TtestResult(statistic=-1.880871595185561, pvalue=0.07626840886740673, df=18.0)
+    Variance ttest: TtestResult(statistic=-1.880871595185561, pvalue=0.08543183166303871, df=11.549100027523275)
+    Wilcoxon: WilcoxonResult(statistic=12.0, pvalue=0.130859375)
+
+fitness actual metric
+    ________________________________________________________
+    Gen 1
+    CPPN shapiro: ShapiroResult(statistic=0.9443165371698786, pvalue=0.6019633342625055)
+    GRN shapiro: ShapiroResult(statistic=0.8531420763937262, pvalue=0.06330447476417475)
+    NoVariance ttest: TtestResult(statistic=2.798803125342381, pvalue=0.011867118999891488, df=18.0)
+    Variance ttest: TtestResult(statistic=2.798803125342381, pvalue=0.014791943727396291, df=13.301878822608614)
+    Wilcoxon: WilcoxonResult(statistic=5.0, pvalue=0.01953125)
+    ________________________________________________________
+    Gen 2
+    CPPN shapiro: ShapiroResult(statistic=0.8766109987992246, pvalue=0.11927843611595029)
+    GRN shapiro: ShapiroResult(statistic=0.9480792324524242, pvalue=0.6458327585245106)
+    NoVariance ttest: TtestResult(statistic=3.2146319944467274, pvalue=0.004805358399774338, df=18.0)
+    Variance ttest: TtestResult(statistic=3.2146319944467274, pvalue=0.008667095139342764, df=10.549403957448916)
+    Wilcoxon: WilcoxonResult(statistic=2.0, pvalue=0.005859375)
+    ________________________________________________________
+    Gen 3
+    CPPN shapiro: ShapiroResult(statistic=0.9569183935929586, pvalue=0.7502454204277643)
+    GRN shapiro: ShapiroResult(statistic=0.9304368830034168, pvalue=0.45220316109502207)
+    NoVariance ttest: TtestResult(statistic=5.386541149757845, pvalue=4.053041618023325e-05, df=18.0)
+    Variance ttest: TtestResult(statistic=5.386541149757845, pvalue=0.00031507204264550194, df=9.92693183182637)
+    Wilcoxon: WilcoxonResult(statistic=1.0, pvalue=0.00390625)
+    ________________________________________________________
+    Gen 4
+    CPPN shapiro: ShapiroResult(statistic=0.9239496056770882, pvalue=0.3910763567211924)
+    GRN shapiro: ShapiroResult(statistic=0.9120898093656075, pvalue=0.29565653955672677)
+    NoVariance ttest: TtestResult(statistic=7.41857111444396, pvalue=7.055445941317153e-07, df=18.0)
+    Variance ttest: TtestResult(statistic=7.41857111444396, pvalue=1.9258671929492922e-05, df=10.297097749050508)
+    Wilcoxon: WilcoxonResult(statistic=0.0, pvalue=0.001953125)
+    ________________________________________________________
+    Gen 5
+    CPPN shapiro: ShapiroResult(statistic=0.8722915208726472, pvalue=0.10629724298438908)
+    GRN shapiro: ShapiroResult(statistic=0.8713048312492812, pvalue=0.10352564357747335)
+    NoVariance ttest: TtestResult(statistic=6.7861393466589535, pvalue=2.346661770844678e-06, df=18.0)
+    Variance ttest: TtestResult(statistic=6.786139346658954, pvalue=1.3507212857024654e-05, df=12.88290466893628)
+    Wilcoxon: WilcoxonResult(statistic=0.0, pvalue=0.001953125)
+    ________________________________________________________
+    Gen 6
+    CPPN shapiro: ShapiroResult(statistic=0.9691957829030178, pvalue=0.883290126797111)
+    GRN shapiro: ShapiroResult(statistic=0.9026620303512395, pvalue=0.2342867247448377)
+    NoVariance ttest: TtestResult(statistic=7.750080549101518, pvalue=3.839714979742699e-07, df=18.0)
+    Variance ttest: TtestResult(statistic=7.750080549101518, pvalue=6.642639253105281e-06, df=11.527890887543894)
+    Wilcoxon: WilcoxonResult(statistic=0.0, pvalue=0.001953125)
+    ________________________________________________________
+    Gen 7
+    CPPN shapiro: ShapiroResult(statistic=0.9649729611562955, pvalue=0.84073158536996)
+    GRN shapiro: ShapiroResult(statistic=0.9263652277207335, pvalue=0.41310661705187307)
+    NoVariance ttest: TtestResult(statistic=7.371543105996267, pvalue=7.700624325749568e-07, df=18.0)
+    Variance ttest: TtestResult(statistic=7.371543105996267, pvalue=3.7613733848908895e-06, df=13.831757596509947)
+    Wilcoxon: WilcoxonResult(statistic=0.0, pvalue=0.001953125)
+    ________________________________________________________
+    Gen 8
+    CPPN shapiro: ShapiroResult(statistic=0.9457249312319376, pvalue=0.6182784368420515)
+    GRN shapiro: ShapiroResult(statistic=0.9321419953871749, pvalue=0.46928882584288434)
+    NoVariance ttest: TtestResult(statistic=6.966724728307421, pvalue=1.65582818948344e-06, df=18.0)
+    Variance ttest: TtestResult(statistic=6.966724728307421, pvalue=3.936943598940047e-06, df=15.386428552247864)
+    Wilcoxon: WilcoxonResult(statistic=0.0, pvalue=0.001953125)
+    ________________________________________________________
+    Gen 9
+    CPPN shapiro: ShapiroResult(statistic=0.9546637593607427, pvalue=0.7237361410917271)
+    GRN shapiro: ShapiroResult(statistic=0.9601916285474401, pvalue=0.7880554600935414)
+    NoVariance ttest: TtestResult(statistic=6.210050983305, pvalue=7.350909055449541e-06, df=18.0)
+    Variance ttest: TtestResult(statistic=6.210050983305, pvalue=1.2755350607581314e-05, df=15.925565543112507)
+    Wilcoxon: WilcoxonResult(statistic=0.0, pvalue=0.001953125)
+    ________________________________________________________
+    Gen 10
+    CPPN shapiro: ShapiroResult(statistic=0.8746657576719619, pvalue=0.11325733280730044)
+    GRN shapiro: ShapiroResult(statistic=0.910549553016431, pvalue=0.2847872437230823)
+    NoVariance ttest: TtestResult(statistic=5.854450556572252, pvalue=1.5204496015616822e-05, df=18.0)
+    Variance ttest: TtestResult(statistic=5.854450556572252, pvalue=2.7047450227996205e-05, df=15.600104256615682)
+    Wilcoxon: WilcoxonResult(statistic=0.0, pvalue=0.001953125)
+    ________________________________________________________
+    Gen 11
+    CPPN shapiro: ShapiroResult(statistic=0.8013134732528626, pvalue=0.015041274763781167)
+    GRN shapiro: ShapiroResult(statistic=0.9333500068584577, pvalue=0.48163953339615206)
+    NoVariance ttest: TtestResult(statistic=5.196680517922764, pvalue=6.077473311479579e-05, df=18.0)
+    Variance ttest: TtestResult(statistic=5.196680517922764, pvalue=8.52776527995426e-05, df=16.170829163794703)
+    Wilcoxon: WilcoxonResult(statistic=0.0, pvalue=0.001953125)
+    ________________________________________________________
+    Gen 12
+    CPPN shapiro: ShapiroResult(statistic=0.8720674236382102, pvalue=0.10566164736141737)
+    GRN shapiro: ShapiroResult(statistic=0.9378485949007729, pvalue=0.5293320022575507)
+    NoVariance ttest: TtestResult(statistic=4.730689354255568, pvalue=0.00016685220769478064, df=18.0)
+    Variance ttest: TtestResult(statistic=4.730689354255568, pvalue=0.0001931340809424736, df=17.002745586365858)
+    Wilcoxon: WilcoxonResult(statistic=0.0, pvalue=0.001953125)
+    ________________________________________________________
+    Gen 13
+    CPPN shapiro: ShapiroResult(statistic=0.8234411663322411, pvalue=0.02788867339061413)
+    GRN shapiro: ShapiroResult(statistic=0.9139333319124069, pvalue=0.3091161009019276)
+    NoVariance ttest: TtestResult(statistic=4.073497681573757, pvalue=0.0007130565138259874, df=18.0)
+    Variance ttest: TtestResult(statistic=4.073497681573757, pvalue=0.001006250241786536, df=14.939178216994685)
+    Wilcoxon: WilcoxonResult(statistic=0.0, pvalue=0.001953125)
+    ________________________________________________________
+    Gen 14
+    CPPN shapiro: ShapiroResult(statistic=0.8840303297828774, pvalue=0.14511374810483513)
+    GRN shapiro: ShapiroResult(statistic=0.9426468335736544, pvalue=0.5828237161992664)
+    NoVariance ttest: TtestResult(statistic=3.8572193226771616, pvalue=0.0011543900002812218, df=18.0)
+    Variance ttest: TtestResult(statistic=3.8572193226771616, pvalue=0.0014928793532335833, df=15.347488263586985)
+    Wilcoxon: WilcoxonResult(statistic=0.0, pvalue=0.001953125)
+    ________________________________________________________
+    Gen 15
+    CPPN shapiro: ShapiroResult(statistic=0.9119511759649979, pvalue=0.29466429095829527)
+    GRN shapiro: ShapiroResult(statistic=0.9656323320942928, pvalue=0.8476629456310485)
+    NoVariance ttest: TtestResult(statistic=3.616737451770869, pvalue=0.0019723694809389153, df=18.0)
+    Variance ttest: TtestResult(statistic=3.616737451770869, pvalue=0.0026769549903683633, df=14.451528512419657)
+    Wilcoxon: WilcoxonResult(statistic=0.0, pvalue=0.001953125)
+    ________________________________________________________
+    Gen 16
+    CPPN shapiro: ShapiroResult(statistic=0.9278578237405603, pvalue=0.4271554318160874)
+    GRN shapiro: ShapiroResult(statistic=0.9242711420860188, pvalue=0.39395805303195586)
+    NoVariance ttest: TtestResult(statistic=3.0685264305884763, pvalue=0.006619327587164209, df=18.0)
+    Variance ttest: TtestResult(statistic=3.0685264305884763, pvalue=0.007348757019109777, df=15.999259505645346)
+    Wilcoxon: WilcoxonResult(statistic=1.0, pvalue=0.00390625)
+    ________________________________________________________
+    Gen 17
+    CPPN shapiro: ShapiroResult(statistic=0.9536826079175813, pvalue=0.7121340408559189)
+    GRN shapiro: ShapiroResult(statistic=0.9211572332243891, pvalue=0.36670791704189254)
+    NoVariance ttest: TtestResult(statistic=2.8584834681809723, pvalue=0.01043938355571088, df=18.0)
+    Variance ttest: TtestResult(statistic=2.8584834681809723, pvalue=0.011620392863322917, df=15.566237938850465)
+    Wilcoxon: WilcoxonResult(statistic=4.0, pvalue=0.013671875)
+    ________________________________________________________
+    Gen 18
+    CPPN shapiro: ShapiroResult(statistic=0.9346337868738607, pvalue=0.4949824581497698)
+    GRN shapiro: ShapiroResult(statistic=0.9593360095630564, pvalue=0.7782751430158882)
+    NoVariance ttest: TtestResult(statistic=2.372178024772415, pvalue=0.029035547923619703, df=18.0)
+    Variance ttest: TtestResult(statistic=2.372178024772415, pvalue=0.029802591210021937, df=16.933482322624307)
+    Wilcoxon: WilcoxonResult(statistic=9.0, pvalue=0.064453125)
+    ________________________________________________________
+    Gen 19
+    CPPN shapiro: ShapiroResult(statistic=0.9454271402221163, pvalue=0.6148169679186625)
+    GRN shapiro: ShapiroResult(statistic=0.9331045159728786, pvalue=0.47911338497630923)
+    NoVariance ttest: TtestResult(statistic=2.1862875332922584, pvalue=0.04224610193715789, df=18.0)
+    Variance ttest: TtestResult(statistic=2.1862875332922584, pvalue=0.04361183778855438, df=16.402061802651293)
+    Wilcoxon: WilcoxonResult(statistic=11.0, pvalue=0.10546875)
+    ________________________________________________________
+    Gen 20
+    CPPN shapiro: ShapiroResult(statistic=0.9234644641575426, pvalue=0.3867579455447562)
+    GRN shapiro: ShapiroResult(statistic=0.9296111816161322, pvalue=0.4440786240790514)
+    NoVariance ttest: TtestResult(statistic=2.075825071983369, pvalue=0.05251436665704485, df=18.0)
+    Variance ttest: TtestResult(statistic=2.075825071983369, pvalue=0.05346375666522203, df=16.92773469885472)
+    Wilcoxon: WilcoxonResult(statistic=12.0, pvalue=0.130859375)
+    ________________________________________________________
+    Gen 21
+    CPPN shapiro: ShapiroResult(statistic=0.9507866236707603, pvalue=0.6778137023291257)
+    GRN shapiro: ShapiroResult(statistic=0.9622519389719161, pvalue=0.8112148740810956)
+    NoVariance ttest: TtestResult(statistic=1.552797147604133, pvalue=0.13787690188076307, df=18.0)
+    Variance ttest: TtestResult(statistic=1.552797147604133, pvalue=0.13871581258156557, df=17.16329420300702)
+    Wilcoxon: WilcoxonResult(statistic=16.0, pvalue=0.275390625)
+    ________________________________________________________
+    Gen 22
+    CPPN shapiro: ShapiroResult(statistic=0.9316276559182939, pvalue=0.46409173668641884)
+    GRN shapiro: ShapiroResult(statistic=0.9326539204044193, pvalue=0.4744981650103904)
+    NoVariance ttest: TtestResult(statistic=1.3921404237823936, pvalue=0.18084248320204788, df=18.0)
+    Variance ttest: TtestResult(statistic=1.3921404237823936, pvalue=0.1826277530438703, df=16.261219607749375)
+    Wilcoxon: WilcoxonResult(statistic=17.0, pvalue=0.322265625)
+    ________________________________________________________
+    Gen 23
+    CPPN shapiro: ShapiroResult(statistic=0.9216873021201993, pvalue=0.3712429480924253)
+    GRN shapiro: ShapiroResult(statistic=0.9729614350472485, pvalue=0.9168623819392798)
+    NoVariance ttest: TtestResult(statistic=1.3967692335067932, pvalue=0.17946796985759803, df=18.0)
+    Variance ttest: TtestResult(statistic=1.3967692335067934, pvalue=0.1829418027725295, df=14.899641193390188)
+    Wilcoxon: WilcoxonResult(statistic=18.0, pvalue=0.375)
+    ________________________________________________________
+    Gen 24
+    CPPN shapiro: ShapiroResult(statistic=0.9296296321883669, pvalue=0.444259093318991)
+    GRN shapiro: ShapiroResult(statistic=0.9612755120788502, pvalue=0.8003141270924499)
+    NoVariance ttest: TtestResult(statistic=1.2053084430975107, pvalue=0.2436913243502023, df=18.0)
+    Variance ttest: TtestResult(statistic=1.2053084430975107, pvalue=0.24663734017235178, df=15.097122722480448)
+    Wilcoxon: WilcoxonResult(statistic=19.0, pvalue=0.431640625)
+    ________________________________________________________
+    Gen 25
+    CPPN shapiro: ShapiroResult(statistic=0.9430794404881274, pvalue=0.5877597265183252)
+    GRN shapiro: ShapiroResult(statistic=0.911466564664007, pvalue=0.29121748434488415)
+    NoVariance ttest: TtestResult(statistic=1.2331333734156888, pvalue=0.23338815178787448, df=18.0)
+    Variance ttest: TtestResult(statistic=1.233133373415689, pvalue=0.2377198170844754, df=14.07851900706198)
+    Wilcoxon: WilcoxonResult(statistic=20.0, pvalue=0.4921875)
+    ________________________________________________________
+    Gen 26
+    CPPN shapiro: ShapiroResult(statistic=0.9495193488082042, pvalue=0.6628168533717281)
+    GRN shapiro: ShapiroResult(statistic=0.9619887700910016, pvalue=0.8082911994919686)
+    NoVariance ttest: TtestResult(statistic=0.8019327436015331, pvalue=0.43305209280936796, df=18.0)
+    Variance ttest: TtestResult(statistic=0.8019327436015331, pvalue=0.4342389994637439, df=16.142725692679935)
+    Wilcoxon: WilcoxonResult(statistic=24.0, pvalue=0.76953125)
+    ________________________________________________________
+    Gen 27
+    CPPN shapiro: ShapiroResult(statistic=0.9700991034803714, pvalue=0.8917626176302229)
+    GRN shapiro: ShapiroResult(statistic=0.947670027639941, pvalue=0.6410222497878099)
+    NoVariance ttest: TtestResult(statistic=0.5282454955582351, pvalue=0.6037813861742363, df=18.0)
+    Variance ttest: TtestResult(statistic=0.5282454955582351, pvalue=0.6042100670549757, df=16.867675792860485)
+    Wilcoxon: WilcoxonResult(statistic=26.0, pvalue=0.921875)
+    ________________________________________________________
+    Gen 28
+    CPPN shapiro: ShapiroResult(statistic=0.9741207054098381, pvalue=0.9262021704872752)
+    GRN shapiro: ShapiroResult(statistic=0.9646385433293614, pvalue=0.8371806290576099)
+    NoVariance ttest: TtestResult(statistic=0.5252073456973922, pvalue=0.6058487314163337, df=18.0)
+    Variance ttest: TtestResult(statistic=0.5252073456973922, pvalue=0.605945597604061, df=17.729419227746657)
+    Wilcoxon: WilcoxonResult(statistic=23.0, pvalue=0.6953125)
+    ________________________________________________________
+    Gen 29
+    CPPN shapiro: ShapiroResult(statistic=0.9682707942374029, pvalue=0.874365609049834)
+    GRN shapiro: ShapiroResult(statistic=0.9477407052092055, pvalue=0.6418525560850367)
+    NoVariance ttest: TtestResult(statistic=0.3867945437041519, pvalue=0.7034430167736563, df=18.0)
+    Variance ttest: TtestResult(statistic=0.3867945437041519, pvalue=0.7034720905576348, df=17.884318392361013)
+    Wilcoxon: WilcoxonResult(statistic=25.0, pvalue=0.845703125)
+    ________________________________________________________
+    Gen 30
+    CPPN shapiro: ShapiroResult(statistic=0.925451049371401, pvalue=0.4046662322129886)
+    GRN shapiro: ShapiroResult(statistic=0.8550745559442463, pvalue=0.06673449964934042)
+    NoVariance ttest: TtestResult(statistic=0.26403119371960077, pvalue=0.794755090101761, df=18.0)
+    Variance ttest: TtestResult(statistic=0.2640311937196008, pvalue=0.7947592054124808, df=17.975129861382182)
+    Wilcoxon: WilcoxonResult(statistic=27.0, pvalue=1.0)
+    ________________________________________________________
+    Gen 31
+    CPPN shapiro: ShapiroResult(statistic=0.9173575461581204, pvalue=0.33544195614136013)
+    GRN shapiro: ShapiroResult(statistic=0.8484248491112668, pvalue=0.055634104381266314)
+    NoVariance ttest: TtestResult(statistic=0.3608492526972498, pvalue=0.7224123578363761, df=18.0)
+    Variance ttest: TtestResult(statistic=0.3608492526972498, pvalue=0.722507713665062, df=17.59694657957331)
+    Wilcoxon: WilcoxonResult(statistic=26.0, pvalue=0.921875)
+    ________________________________________________________
+    Gen 32
+    CPPN shapiro: ShapiroResult(statistic=0.9247046840969679, pvalue=0.3978682700053411)
+    GRN shapiro: ShapiroResult(statistic=0.7579289170713344, pvalue=0.004457412394778065)
+    NoVariance ttest: TtestResult(statistic=-0.003049392952210997, pvalue=0.9976004822501786, df=18.0)
+    Variance ttest: TtestResult(statistic=-0.0030493929522109973, pvalue=0.9976016933043717, df=17.367715145056252)
+    Wilcoxon: WilcoxonResult(statistic=26.0, pvalue=0.921875)
+    ________________________________________________________
+    Gen 33
+    CPPN shapiro: ShapiroResult(statistic=0.9355245382921673, pvalue=0.5043686916114779)
+    GRN shapiro: ShapiroResult(statistic=0.7423364366488348, pvalue=0.0028787416800192507)
+    NoVariance ttest: TtestResult(statistic=0.1761281296928638, pvalue=0.862159681852734, df=18.0)
+    Variance ttest: TtestResult(statistic=0.1761281296928638, pvalue=0.8621854238266743, df=17.765513895941105)
+    Wilcoxon: WilcoxonResult(statistic=23.0, pvalue=0.6953125)
+    ________________________________________________________
+    Gen 34
+    CPPN shapiro: ShapiroResult(statistic=0.9121764938191458, pvalue=0.29627837925452194)
+    GRN shapiro: ShapiroResult(statistic=0.7248667222177045, pvalue=0.0017648650752251163)
+    NoVariance ttest: TtestResult(statistic=-0.13178997240444565, pvalue=0.8966123577379095, df=18.0)
+    Variance ttest: TtestResult(statistic=-0.13178997240444565, pvalue=0.8966693940798751, df=17.318641942615983)
+    Wilcoxon: WilcoxonResult(statistic=27.0, pvalue=1.0)
+    ________________________________________________________
+    Gen 35
+    CPPN shapiro: ShapiroResult(statistic=0.9180182847455697, pvalue=0.34072276209910696)
+    GRN shapiro: ShapiroResult(statistic=0.7368575878346302, pvalue=0.0024690317348661324)
+    NoVariance ttest: TtestResult(statistic=-0.025501784485549878, pvalue=0.9799353231002242, df=18.0)
+    Variance ttest: TtestResult(statistic=-0.025501784485549878, pvalue=0.9799431855477427, df=17.50544633163553)
+    Wilcoxon: WilcoxonResult(statistic=25.0, pvalue=0.845703125)
+    ________________________________________________________
+    Gen 36
+    CPPN shapiro: ShapiroResult(statistic=0.928689429451433, pvalue=0.4351258319853383)
+    GRN shapiro: ShapiroResult(statistic=0.7459123199546243, pvalue=0.003182250261499207)
+    NoVariance ttest: TtestResult(statistic=0.27850701674861617, pvalue=0.7837974165736886, df=18.0)
+    Variance ttest: TtestResult(statistic=0.2785070167486162, pvalue=0.7839083062160415, df=17.387307638508997)
+    Wilcoxon: WilcoxonResult(statistic=20.0, pvalue=0.4921875)
+    ________________________________________________________
+    Gen 37
+    CPPN shapiro: ShapiroResult(statistic=0.946594915219707, pvalue=0.6284239137995207)
+    GRN shapiro: ShapiroResult(statistic=0.7586438619107753, pvalue=0.004547704577556351)
+    NoVariance ttest: TtestResult(statistic=0.27155276898285957, pvalue=0.7890558827482869, df=18.0)
+    Variance ttest: TtestResult(statistic=0.27155276898285957, pvalue=0.789138622575819, df=17.52665482802057)
+    Wilcoxon: WilcoxonResult(statistic=20.0, pvalue=0.4921875)
+    ________________________________________________________
+    Gen 38
+    CPPN shapiro: ShapiroResult(statistic=0.9550432898230877, pvalue=0.7282156749900774)
+    GRN shapiro: ShapiroResult(statistic=0.6935501965339066, pvalue=0.0007359005278509803)
+    NoVariance ttest: TtestResult(statistic=0.33161687433165676, pvalue=0.7440084596811106, df=18.0)
+    Variance ttest: TtestResult(statistic=0.3316168743316569, pvalue=0.7442213094604755, df=17.044155046021668)
+    Wilcoxon: WilcoxonResult(statistic=18.0, pvalue=0.375)
+    ________________________________________________________
+    Gen 39
+    CPPN shapiro: ShapiroResult(statistic=0.9331148674815918, pvalue=0.4792197377245536)
+    GRN shapiro: ShapiroResult(statistic=0.7633455100191544, pvalue=0.005188848908755552)
+    NoVariance ttest: TtestResult(statistic=0.5423809724846952, pvalue=0.594208259061298, df=18.0)
+    Variance ttest: TtestResult(statistic=0.5423809724846952, pvalue=0.5943987610135248, df=17.49393036485437)
+    Wilcoxon: WilcoxonResult(statistic=19.0, pvalue=0.431640625)
+    ________________________________________________________
+    Gen 40
+    CPPN shapiro: ShapiroResult(statistic=0.9537923210489004, pvalue=0.7134326751408602)
+    GRN shapiro: ShapiroResult(statistic=0.7858871184441439, pvalue=0.009764424013882432)
+    NoVariance ttest: TtestResult(statistic=0.25044478539258874, pvalue=0.8050796918458576, df=18.0)
+    Variance ttest: TtestResult(statistic=0.25044478539258874, pvalue=0.8052139237832964, df=17.17984820979392)
+    Wilcoxon: WilcoxonResult(statistic=21.0, pvalue=0.556640625)
+    ________________________________________________________
+    Gen 41
+    CPPN shapiro: ShapiroResult(statistic=0.9571964260605664, pvalue=0.7534936936959211)
+    GRN shapiro: ShapiroResult(statistic=0.7758343117190943, pvalue=0.007365817501067872)
+    NoVariance ttest: TtestResult(statistic=0.20986826702258451, pvalue=0.836127625581613, df=18.0)
+    Variance ttest: TtestResult(statistic=0.2098682670225845, pvalue=0.8361625177610731, df=17.73528115252149)
+    Wilcoxon: WilcoxonResult(statistic=21.0, pvalue=0.556640625)
+    ________________________________________________________
+    Gen 42
+    CPPN shapiro: ShapiroResult(statistic=0.9504528077612122, pvalue=0.6738600642889078)
+    GRN shapiro: ShapiroResult(statistic=0.7321095261036528, pvalue=0.0021615649137953674)
+    NoVariance ttest: TtestResult(statistic=0.2672993028470171, pvalue=0.7922773142074531, df=18.0)
+    Variance ttest: TtestResult(statistic=0.2672993028470171, pvalue=0.792312488199923, df=17.792300713328828)
+    Wilcoxon: WilcoxonResult(statistic=21.0, pvalue=0.556640625)
+    ________________________________________________________
+    Gen 43
+    CPPN shapiro: ShapiroResult(statistic=0.9441364701317941, pvalue=0.5998881175500981)
+    GRN shapiro: ShapiroResult(statistic=0.765508626885398, pvalue=0.0055134688380419645)
+    NoVariance ttest: TtestResult(statistic=0.21518555586403487, pvalue=0.8320419764742234, df=18.0)
+    Variance ttest: TtestResult(statistic=0.21518555586403487, pvalue=0.8321025507343773, df=17.556713729314698)
+    Wilcoxon: WilcoxonResult(statistic=22.0, pvalue=0.625)
+    ________________________________________________________
+    Gen 44
+    CPPN shapiro: ShapiroResult(statistic=0.9392095224231983, pvalue=0.5442515300732982)
+    GRN shapiro: ShapiroResult(statistic=0.7572569064650737, pvalue=0.0043741792422984805)
+    NoVariance ttest: TtestResult(statistic=0.32638232778673887, pvalue=0.7478993969496501, df=18.0)
+    Variance ttest: TtestResult(statistic=0.32638232778673887, pvalue=0.7479115268061332, df=17.941689808242508)
+    Wilcoxon: WilcoxonResult(statistic=22.0, pvalue=0.625)
+    ________________________________________________________
+    Gen 45
+    CPPN shapiro: ShapiroResult(statistic=0.9586567490646682, pvalue=0.770453684734885)
+    GRN shapiro: ShapiroResult(statistic=0.7716067569914917, pvalue=0.006542142562501177)
+    NoVariance ttest: TtestResult(statistic=0.25585104402755576, pvalue=0.8009668221662672, df=18.0)
+    Variance ttest: TtestResult(statistic=0.25585104402755576, pvalue=0.8009724281062239, df=17.964994565785815)
+    Wilcoxon: WilcoxonResult(statistic=23.0, pvalue=0.6953125)
+    ________________________________________________________
+    Gen 46
+    CPPN shapiro: ShapiroResult(statistic=0.9780404694562828, pvalue=0.9538242035384692)
+    GRN shapiro: ShapiroResult(statistic=0.7347863543489042, pvalue=0.002329849999353467)
+    NoVariance ttest: TtestResult(statistic=0.2667725579986926, pvalue=0.7926765222182123, df=18.0)
+    Variance ttest: TtestResult(statistic=0.26677255799869265, pvalue=0.7927332060038847, df=17.666929014551503)
+    Wilcoxon: WilcoxonResult(statistic=21.0, pvalue=0.556640625)
+    ________________________________________________________
+    Gen 47
+    CPPN shapiro: ShapiroResult(statistic=0.955886565123029, pvalue=0.7381465086016357)
+    GRN shapiro: ShapiroResult(statistic=0.7617810564568173, pvalue=0.004966051307022625)
+    NoVariance ttest: TtestResult(statistic=0.29079165691414127, pvalue=0.7745346456304188, df=18.0)
+    Variance ttest: TtestResult(statistic=0.29079165691414127, pvalue=0.7745355720639135, df=17.994942359319634)
+    Wilcoxon: WilcoxonResult(statistic=23.0, pvalue=0.6953125)
+    ________________________________________________________
+    Gen 48
+    CPPN shapiro: ShapiroResult(statistic=0.9534422671551138, pvalue=0.7092883249867263)
+    GRN shapiro: ShapiroResult(statistic=0.766718035445921, pvalue=0.005703738894651231)
+    NoVariance ttest: TtestResult(statistic=0.1435089252350298, pvalue=0.8874826501574717, df=18.0)
+    Variance ttest: TtestResult(statistic=0.1435089252350298, pvalue=0.8874900832007564, df=17.915797326894882)
+    Wilcoxon: WilcoxonResult(statistic=27.0, pvalue=1.0)
+    ________________________________________________________
+    Gen 49
+    CPPN shapiro: ShapiroResult(statistic=0.9710170882731346, pvalue=0.9001118947286478)
+    GRN shapiro: ShapiroResult(statistic=0.7600523104326896, pvalue=0.004730972035844656)
+    NoVariance ttest: TtestResult(statistic=0.2743227050575404, pvalue=0.7869601250941258, df=18.0)
+    Variance ttest: TtestResult(statistic=0.2743227050575404, pvalue=0.7869601336684994, df=17.99995017447756)
+    Wilcoxon: WilcoxonResult(statistic=24.0, pvalue=0.76953125)
+    ________________________________________________________
+    Gen 50
+    CPPN shapiro: ShapiroResult(statistic=0.9592351922793367, pvalue=0.7771172980436594)
+    GRN shapiro: ShapiroResult(statistic=0.7648862972456323, pvalue=0.005418048073245075)
+    NoVariance ttest: TtestResult(statistic=0.15868214838106914, pvalue=0.8756860919294689, df=18.0)
+    Variance ttest: TtestResult(statistic=0.15868214838106917, pvalue=0.8757044458316907, df=17.81343129487485)
+    Wilcoxon: WilcoxonResult(statistic=24.0, pvalue=0.76953125)

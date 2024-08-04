@@ -1,0 +1,9 @@
+# This document will hold all commands to run different experiments.
+
+Directory: Documents/Thesis/revolve2/examples/robot_bodybrain_ea_database
+
+cd revolve2-1.1.1/examples/robot_bodybrain_ea_database/
+
+python main.py 'GRN' 'evolution' '../../../Experiments_Kevin/Data/test.sqlite' 'False'
+python kevinmain.py 'GRN' 'evolution' '../../../Experiments_Kevin/Data/GRN.sqlite' 'False'
+python kevinmain.py 'CPPN' 'evolution' '../../../Experiments_Kevin/Data/CPPN.sqlite' 'False'

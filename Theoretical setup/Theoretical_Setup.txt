@@ -1,0 +1,84 @@
+#######################################################################################
+General Experiment setup
+#######################################################################################
+
+- Use Niels' branch (much easier to use the same branch for both)
+- I dont need to copy any code, i can use the working implementation direct from the cloned github repository --> just specify the correct path for the database file, since i dont need anything else
+- Use own config file (not the one from documentation)
+- Run using own main.py added in documentation (works better), but run through batch (?) files
+- Use narrow sense heritability (only additive genes -> can use population/performance metrics to calculate)
+
+Current config params:
+- Num repetitions: 15
+- Population size: 100
+- Offspring size: 100
+- Num generations: 500
+- Parent/survivor tournament size: 4
+- Crossover probability: 1
+- Mutation probability: 0.9
+- Max parts: 20
+- Simulation time: 30
+- Terrain: Flat
+- Fitness function: x_speed
+
+General plan of experiment:
+- Run Evolution for both GRN and CPPN using Niels' implementation
+- Calculate the behavioural heritability using found metric of the population wide difference between child and average of parents
+- Calculate average TED for the population as a metric for morphological heritability
+- Save newly found information in separate (probably pandas) database
+- Plot information to be able to analyze well
+
+#######################################################################################
+Setup TED heritability
+#######################################################################################
+
+- Convert morphology to a grid like structure
+- Compare grids, and calculate distance 
+- Since the TED will most likely be a score of #-of-actions or something similar, convert this to a float in between 0 and 1
+    - This will help make it like the other heritability measure, and thus compare between the two easier
+    - It should be able to be done using the total tree size/versus empty grid, which should be easy to find once tree is there
+- Save both raw TED and heritability measure
+- Also make function to show phenotype
+
+#######################################################################################
+Setup Behavioural heritability
+#######################################################################################
+
+- Find parents of given individual
+- Calculate average fitness of parents
+- Calculate heritability by using (fitness_child)/(avg_fitness_parents)
+- By linear regression, calculate population wide heritability -> max slope should be 1 -> 100% heritability would have slope=1
+- Save average parent fitness, individual fitness and population wide heritability to database
+
+#######################################################################################
+Questions to ask/Things to find out or do (plus answers if found)
+#######################################################################################
+
+- Are parents stored in database file?
+    - No, but can be added (added only their fitness for now)
+    - Dont need full parent, only need fitness of both (or average) (?)
+    - I can probably add this in the kevinmain.py file, near where the offspring population is generated
+        - I can!
+    - Find out if the parent fitnesses added now are correct, cause they seem to be off by a factor of 10 or so (Could be me not understanding something though)
+    - Done!
+
+- Are find_children, find_distance and find_label still necessary if converted to appropriate tree structure?
+    - I would assume not
+    - Using different method, so not necessary at all
+    
+- What does the DAS mean and can we use it? (and if so, how do we do that)
+    - Probably dont use
+
+- Would it be nice to compare the heritability between two different fitness metrics, or should i keep it to one
+    - Note: this would be rather easy to implement, it would just require more running time on the experiment
+    - Yes
+
+- Find out how to account for positive difference between parents and children (heritability > 1)
+    - probably cant because it is a slope >
+
+- Find out what the attachment point values mean for the core
+    - Probably:
+        - 0 front
+        - 1 right
+        - 2 left
+        - 3 back
